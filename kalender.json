@@ -2,13 +2,13 @@
     "05.09": {
         "jahr": "1953",
         "titel": "",
-        "text": "Am 5. September 1953 lud der Kreisverband Wolfenbüttel des VdH zu einem Wunschkonzert mit anschließendem Deutschen Tanz im ‚Leistes Festsaal‘ ein.",
+        "text": "Am 5. September 1953 lud der Kreisverband Wolfenbüttel des VdH zu einem Wunschkonzert mit anschließendem Deutschen Tanz im "Leistes Festsaal" ein.",
         "bild": "5-1953.png"
     },
     "07.09": {
         "jahr": "1954",
         "titel": "",
-        "text": "Die Wolfenbütteler Zeitung vom 7. September 1953 listete unter der Rubrik ‚Wolfenbüttel bietet‘ das vielfältige Kultur-, Vereins- und Serviceangebot der Stadt auf – von Kinovorstellungen bis zu den Öffnungszeiten des Heimatmuseums im Schloss.",
+        "text": "Die Wolfenbütteler Zeitung vom 7. September 1953 listete unter der Rubrik "Wolfenbüttel bietet" das vielfältige Kultur-, Vereins- und Serviceangebot der Stadt auf – von Kinovorstellungen bis zu den Öffnungszeiten des Heimatmuseums im Schloss.",
         "bild": "7-1953.png"
     },
     "09.09": {
@@ -22,5 +22,17 @@
         "titel": "",
         "text": "Im September 1953 berichtete die Wolfenbütteler Zeitung über die Fertigstellung eines 21-Familien-Hauses im Doktorkamp. Die neuen Bewohner konnten ihre Wohnungen beziehen und sich in ihrem modernen Heim wohlfühlen.",
         "bild": "17-1953.png"
+    },
+    "17.09": {
+        "jahr": "1966",
+        "titel": "",
+        "text": "Im September 1966 erinnerte die Wolfenbütteler Zeitung an den 300. Todestag von Herzog August dem Jüngeren und würdigte ihn als bedeutenden braunschweigischen Landesfürsten.",
+        "bild": "17-1966.png"
+    },
+   "24.09": {
+        "jahr": "1971",
+        "titel": "",
+        "text": "Im September 1971 berichtete die Wolfenbütteler Zeitung über den stark beschädigten Hausmannsturm des Schlosses Wolfenbüttel. Eine Spezialfirma sicherte den Turm, damit anschließend die Restaurierung und farbliche Erneuerung beginnen konnte.",
+        "bild": "17-1966.png"
     }
 }
