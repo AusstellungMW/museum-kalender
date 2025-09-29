@@ -1,5 +1,4 @@
 {
-    
     "07.09": {
         "jahr": "1954",
         "titel": "",
@@ -24,10 +23,17 @@
         "text": "Im September 1966 erinnerte die Wolfenbütteler Zeitung an den 300. Todestag von Herzog August dem Jüngeren und würdigte ihn als bedeutenden braunschweigischen Landesfürsten.",
         "bild": "17-1966.png"
     },
-   "24.09": {
+    "24.09": {
         "jahr": "1971",
         "titel": "",
         "text": "Im September 1971 berichtete die Wolfenbütteler Zeitung über den stark beschädigten Hausmannsturm des Schlosses Wolfenbüttel. Eine Spezialfirma sicherte den Turm, damit anschließend die Restaurierung und farbliche Erneuerung beginnen konnte.",
         "bild": "24-1971.png"
+    },
+    "23.10": {
+        "jahr": "1910",
+        "titel": "Großbrand in Wolfenbüttel",
+        "text": "Am 23. Oktober 1910 zerstörte ein Großbrand das Putz-, Weiß- und Wollwarengeschäft Wilhelm Kukuk an der Kanzleistraße/Lange Herzogstraße, wobei zahlreiche Helfer, darunter auch Gymnasiasten, tatkräftig eingriffen.",
+        "bild": "23-1910.png"
     }
 }
+
