@@ -29,15 +29,39 @@
         "text": "Im September 1971 berichtete die Wolfenbütteler Zeitung über den stark beschädigten Hausmannsturm des Schlosses Wolfenbüttel. Eine Spezialfirma sicherte den Turm, damit anschließend die Restaurierung und farbliche Erneuerung beginnen konnte.",
         "bild": "24-1971.png"
     },
+    "04.10": {
+        "jahr": "1967",
+        "titel": "Stellenanzeige Kuba-Imperial",
+        "text": "Am 4. Oktober 1967 veröffentlichte die Kuba-Imperial in der Wolfenbütteler Zeitung eine Stellenanzeige zur Gewinnung neuer Arbeitskräfte für Montagearbeiten in der Rundfunk- und Fernsehproduktion.",
+        "bild": "4-1967.png"
+    },
+    "05.10": {
+        "jahr": "1967",
+        "titel": "Californischer National-Circus",
+        "text": "Im Jahr 1967 gastierte der Californische National-Circus in Wolfenbüttel und präsentierte eine besondere Attraktion: erstmals traten junge afrikanische Elefantenbullen in der Manege auf, die unter der Leitung von Giovanni Althoff mit akrobatischen Kunststücken und Balanceakten das Publikum begeisterten.",
+        "bild": "circus-1967.png"
+    },
     "23.10": {
         "jahr": "1910",
         "titel": "Großbrand in Wolfenbüttel",
         "text": "Am 23. Oktober 1910 zerstörte ein Großbrand das Putz-, Weiß- und Wollwarengeschäft Wilhelm Kukuk an der Kanzleistraße/Lange Herzogstraße, wobei zahlreiche Helfer, darunter auch Gymnasiasten, tatkräftig eingriffen.",
         "bild": "23-1910.png"
     },
+    "25.10": {
+        "jahr": "1967",
+        "titel": "Auftritt Rita Streich",
+        "text": "Am 25. Oktober 1967 berichtete die Wolfenbütteler Zeitung über den gefeierten Auftritt der weltbekannten Koloratursopranistin Rita Streich im Lessingtheater, die nicht nur von der hervorragenden Akustik begeistert war, sondern auch vom besonderen Charme und der Atmosphäre der Stadt schwärmte.",
+        "bild": "25a-1967.png"
+    },
+    "28.10": {
+        "jahr": "1967",
+        "titel": "Straßenbauarbeiten in Wolfenbüttel",
+        "text": "Am 28. Oktober 1967 berichtete die Wolfenbütteler Zeitung über umfangreiche Straßenbauarbeiten im Stadtgebiet, bei denen neue Parkmöglichkeiten, Fahrbahnen sowie Rad- und Fußwege geschaffen wurden, sodass es in Wolfenbüttel „keine Parkplatzsorgen“ gab.",
+        "bild": "25b-1967.png"
+    },
     "10.11": {
         "jahr": "1938",
-        "titel": "Zerstörung der Synagoge",
+        "titel": "Reichspogromnacht in Wolfenbüttel",
         "text": "Am 10. November 1938 wurde die Synagoge an der Lessingstraße in Wolfenbüttel während der Reichspogromnacht in Brand gesetzt und vollständig zerstört; zugleich wurden jüdische Bürger misshandelt, festgenommen und ihre Geschäfte unter massivem Druck geschlossen.",
         "bild": "10-1938.png"
     }
