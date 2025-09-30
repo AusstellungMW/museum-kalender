@@ -29,47 +29,30 @@
         "text": "Im September 1971 berichtete die Wolfenbütteler Zeitung über den stark beschädigten Hausmannsturm des Schlosses Wolfenbüttel. Eine Spezialfirma sicherte den Turm, damit anschließend die Restaurierung und farbliche Erneuerung beginnen konnte.",
         "bild": "24-1971.png"
     },
+
     "04.10.1950": {
         "jahr": "1950",
-        "titel": "Geschäftshaus Erich Röber",
+        "titel": "Schaufensterfront Röber",
         "text": "Im Oktober 1950 eröffnete das Geschäftshaus Erich Röber in der Mühlenstraße eine moderne Schaufensterfront von 21 Metern Länge mit neuester Beleuchtungstechnik, die Wolfenbüttel ein zeitgemäßes Gesicht verlieh.",
         "bild": "04-1950.png"
-    },
-    "05.10.1950": {
-        "jahr": "1950",
-        "titel": "Segeldrachen-Wettbewerb",
-        "text": "Am 5. Oktober 1950 kündigte die Wolfenbütteler Zeitung einen großen Segeldrachen-Wettbewerb für Kinder und Jugendliche bis 16 Jahre an, bei dem zahlreiche Preise von lokalen Firmen gestiftet wurden.",
-        "bild": "05-1950.png"
-    },
-    "24.10.1950": {
-        "jahr": "1950",
-        "titel": "Bäckerei Rupprecht",
-        "text": "Am 24. Oktober 1950 wurde an der Langen Herzogstraße ein neues Wohn- und Geschäftshaus der Bäckerei und Konditorei Rupprecht eröffnet, das moderne Architektur mit traditionellen Handwerksbetrieben verband.",
-        "bild": "24-1950.png"
-    },
-    "13.10.1952": {
-        "jahr": "1952",
-        "titel": "Segelflugtag",
-        "text": "Am 13. Oktober 1952 lockte der erste Wolfenbütteler Segelflugtag zusammen mit dem dritten Segeldrachenwettbewerb rund 3000 Besucher an den „Drohnenberg“, wo Segelflugzeuge, Drachen und Modelle für ein großes Luftspektakel sorgten.",
-        "bild": "13-1952.png"
-    },
-    "11.10.1952": {
-        "jahr": "1952",
-        "titel": "Neues Hotel",
-        "text": "Im Jahr 1952 eröffnete in Wolfenbüttel ein neues Hotel in einem historischen Fachwerkhaus, das als jüngstes Hotel der Stadt seine Gäste willkommen hieß.",
-        "bild": "11-1952.png"
-    },
-    "23.10.1910": {
-        "jahr": "1910",
-        "titel": "Großbrand in Wolfenbüttel",
-        "text": "Am 23. Oktober 1910 zerstörte ein Großbrand das Putz-, Weiß- und Wollwarengeschäft Wilhelm Kukuk an der Kanzleistraße/Lange Herzogstraße, wobei zahlreiche Helfer, darunter auch Gymnasiasten, tatkräftig eingriffen.",
-        "bild": "23-1910.png"
     },
     "04.10.1967": {
         "jahr": "1967",
         "titel": "Stellenanzeige Kuba-Imperial",
         "text": "Am 4. Oktober 1967 veröffentlichte die Kuba-Imperial in der Wolfenbütteler Zeitung eine Stellenanzeige zur Gewinnung neuer Arbeitskräfte für Montagearbeiten in der Rundfunk- und Fernsehproduktion.",
         "bild": "04-1967.png"
+    },
+    "04.10.1990": {
+        "jahr": "1990",
+        "titel": "Tag der Einheit",
+        "text": "Am 4. Oktober 1990 feierten die Wolfenbütteler gemeinsam mit Gästen aus Spanien, Frankreich und der Region den „Tag der Einheit“ mit Musik, Tanz und einem bunten Unterhaltungsprogramm auf dem Stadtmarkt.",
+        "bild": "04-1990.png"
+    },
+    "05.10.1950": {
+        "jahr": "1950",
+        "titel": "Segeldrachen-Wettbewerb",
+        "text": "Am 5. Oktober 1950 kündigte die Wolfenbütteler Zeitung einen großen Segeldrachen-Wettbewerb für Kinder und Jugendliche bis 16 Jahre an, bei dem zahlreiche Preise von lokalen Firmen gestiftet wurden.",
+        "bild": "05-1950.png"
     },
     "05.10.1967": {
         "jahr": "1967",
@@ -79,9 +62,33 @@
     },
     "10.10.1962": {
         "jahr": "1962",
-        "titel": "Theodor-Heuss-Gymnasium",
+        "titel": "Neues Schulgebäude",
         "text": "Am 10. Oktober 1962 wurde in Wolfenbüttel das neue Schulgebäude des Theodor-Heuss-Gymnasiums eingeweiht, das nach Jahrzehnten provisorischer Unterbringung einen modernen und dauerhaften Standort für den Unterricht schuf.",
         "bild": "10-1962.png"
+    },
+    "11.10.1952": {
+        "jahr": "1952",
+        "titel": "Neues Hotel",
+        "text": "Im Jahr 1952 eröffnete in Wolfenbüttel ein neues Hotel in einem historischen Fachwerkhaus, das als jüngstes Hotel der Stadt seine Gäste willkommen hieß.",
+        "bild": "11-1952.png"
+    },
+    "13.10.1952": {
+        "jahr": "1952",
+        "titel": "Segelflugtag",
+        "text": "Am 13. Oktober 1952 lockte der erste Wolfenbütteler Segelflugtag zusammen mit dem dritten Segeldrachenwettbewerb rund 3000 Besucher an den „Drohnenberg“, wo Segelflugzeuge, Drachen und Modelle für ein großes Luftspektakel sorgten.",
+        "bild": "13-1952.png"
+    },
+    "23.10.1910": {
+        "jahr": "1910",
+        "titel": "Großbrand in Wolfenbüttel",
+        "text": "Am 23. Oktober 1910 zerstörte ein Großbrand das Putz-, Weiß- und Wollwarengeschäft Wilhelm Kukuk an der Kanzleistraße/Lange Herzogstraße, wobei zahlreiche Helfer, darunter auch Gymnasiasten, tatkräftig eingriffen.",
+        "bild": "23-1910.png"
+    },
+    "24.10.1950": {
+        "jahr": "1950",
+        "titel": "Bäckerei Rupprecht",
+        "text": "Am 24. Oktober 1950 wurde an der Langen Herzogstraße ein neues Wohn- und Geschäftshaus der Bäckerei und Konditorei Rupprecht eröffnet, das moderne Architektur mit traditionellen Handwerksbetrieben verband.",
+        "bild": "24-1950.png"
     },
     "25.10.1967": {
         "jahr": "1967",
@@ -97,15 +104,9 @@
     },
     "30.10.1985": {
         "jahr": "1985",
-        "titel": "Schloss-Renovierung",
+        "titel": "Renovierung Schloss",
         "text": "Am 30. Oktober 1985 berichtete die Wolfenbütteler Zeitung über die dringend benötigten zusätzlichen 200.000 DM zur Fortführung der umfangreichen Renovierungsarbeiten am Schloss, um einen Baustopp zu verhindern.",
         "bild": "30-1985.png"
-    },
-    "04.10.1990": {
-        "jahr": "1990",
-        "titel": "Tag der Einheit",
-        "text": "Am 4. Oktober 1990 feierten die Wolfenbütteler gemeinsam mit Gästen aus Spanien, Frankreich und der Region den „Tag der Einheit“ mit Musik, Tanz und einem bunten Unterhaltungsprogramm auf dem Stadtmarkt.",
-        "bild": "04-1990.png"
     },
     "09.10.1990": {
         "jahr": "1990",
@@ -125,6 +126,7 @@
         "text": "Am 21. Oktober 1990 wurde bekannt, dass die Fassaden des Wolfenbütteler Schlosses für rund 1,1 Millionen DM saniert und in den historischen Farben Altrosa und Grau gestrichen werden sollen.",
         "bild": "21-1990.png"
     },
+
     "10.11.1938": {
         "jahr": "1938",
         "titel": "Reichspogromnacht in Wolfenbüttel",
