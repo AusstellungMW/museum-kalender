@@ -138,5 +138,30 @@
     "titel": "Reichspogromnacht in Wolfenbüttel",
     "text": "Am 10. November 1938 wurde die Synagoge an der Lessingstraße in Wolfenbüttel während der Reichspogromnacht in Brand gesetzt und vollständig zerstört; zugleich wurden jüdische Bürger misshandelt, festgenommen und ihre Geschäfte unter massivem Druck geschlossen.",
     "bild": "10-1938.png"
+  },
+    "10.11.1938": {
+    "jahr": "1938",
+    "titel": "Reichspogromnacht in Wolfenbüttel",
+    "text": "Am 10. November 1938 wurde die Synagoge an der Lessingstraße in Wolfenbüttel während der Reichspogromnacht in Brand gesetzt und vollständig zerstört; zugleich wurden jüdische Bürger misshandelt, festgenommen und ihre Geschäfte unter massivem Druck geschlossen.",
+    "bild": "10-1938.png"
+  },
+  "10.11.1976": {
+    "jahr": "1976",
+    "titel": "Fußgängerzone wird erweitert",
+    "text": "Am 10. November 1976 berichtete die Wolfenbütteler Zeitung über die Erweiterung der Fußgängerzone: Der autofreie Bereich reichte nun von der Breiten Herzogstraße bis zum Schlossplatz und stärkte die Aufenthaltsqualität in der Altstadt.",
+    "bild": "10-1976.png"
+  },
+  "15.11.1976": {
+    "jahr": "1976",
+    "titel": "Kranzniederlegung am Nathan-Denkmal",
+    "text": "Am 15. November 1976 legte der Ehrenvorsitzende des niedersächsischen Freien Deutschen Autorenverbandes, der Mundartdichter Moritz Jahn, einen Kranz vor dem Nathan-Denkmal nieder und erinnerte damit an Humanität und Toleranz.",
+    "bild": "15-1976.png"
+  },
+  "27.11.1976": {
+    "jahr": "1976",
+    "titel": "Bahnhof in neuem Glanz",
+    "text": "Im November 1976 zeigte sich der Wolfenbütteler Bahnhof nach einer gründlichen Sandstrahlreinigung von Ruß und Schmutz der vergangenen Jahrzehnte wieder in seinem historischen Erscheinungsbild.",
+    "bild": "27-1976.png"
   }
+
 }
