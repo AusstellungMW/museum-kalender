@@ -133,35 +133,88 @@
     "bild": "21-1990.png"
   },
 
+  {
+  "01.11.1969": {
+    "jahr": "1969",
+    "titel": "175 Jahre Bankhaus C. L. Seeliger",
+    "text": "Am 1. November 1969 blickte das traditionsreiche Bankhaus C. L. Seeliger auf sein 175-jähriges Bestehen zurück. Aus diesem Anlass wurde das historische Stammhaus modernisiert und die Fassade bewahrt, um den gestiegenen Anforderungen an Beratung und Kundenzahl gerecht zu werden.",
+    "bild": "01-1969.png"
+  },
+
+  "03.11.1965a": {
+    "jahr": "1965",
+    "titel": "Stellenanzeige der Maschinenfabrik Gebrüder Welger",
+    "text": "Am 3. November 1965 veröffentlichte die Wolfenbütteler Maschinenfabrik Gebrüder Welger eine umfangreiche Stellenanzeige. Gesucht wurden unter anderem Werkzeugmacher, Maschinenschlosser, E-Schweißer, Bohrwerksdreher und Lagerarbeiter. Die Anzeige verdeutlicht den hohen Fachkräftebedarf der regionalen Industrie in den dynamischen 1960er-Jahren.",
+    "bild": "03-1965a.png"
+  },
+
+  "03.11.1965b": {
+    "jahr": "1965",
+    "titel": "Wolfenbüttel lädt ein zum Schaufensterbummel",
+    "text": "Am 3. November 1965 warb die Werbegemeinschaft Wolfenbüttel mit einer großformatigen Anzeige für die Altstadt als moderne Einkaufsstadt. Ein Stadtplan zeigte neue Parkplätze, Wege und Geschäfte, um Besucherinnen und Besuchern den Schaufensterbummel zu erleichtern.",
+    "bild": "03-1965b.png"
+  },
+
+  "07.11.1985": {
+    "jahr": "1985",
+    "titel": "Untersuchung möglicher Bodenverunreinigungen bei den Stadtwerken",
+    "text": "Am 7. November 1985 wurde bekannt, dass das Betriebsgelände der Stadtwerke Wolfenbüttel an der Goslarschen Straße möglicherweise durch ältere Ablagerungen verunreinigt sein könnte. Erste Untersuchungen deuteten auf belastete Bodenschichten hin, weshalb weitere Prüfungen eingeleitet wurden.",
+    "bild": "07-1985.png"
+  },
+
   "10.11.1938": {
     "jahr": "1938",
     "titel": "Reichspogromnacht in Wolfenbüttel",
-    "text": "Am 10. November 1938 wurde die Synagoge an der Lessingstraße in Wolfenbüttel während der Reichspogromnacht in Brand gesetzt und vollständig zerstört; zugleich wurden jüdische Bürger misshandelt, festgenommen und ihre Geschäfte unter massivem Druck geschlossen.",
+    "text": "Am 10. November 1938 wurde die Synagoge an der Lessingstraße in Wolfenbüttel während der Reichspogromnacht in Brand gesetzt und zerstört; zugleich wurden jüdische Bürger misshandelt, festgenommen und ihre Geschäfte unter Zwang geschlossen.",
     "bild": "10-1938.png"
   },
-    "10.11.1938": {
-    "jahr": "1938",
-    "titel": "Reichspogromnacht in Wolfenbüttel",
-    "text": "Am 10. November 1938 wurde die Synagoge an der Lessingstraße in Wolfenbüttel während der Reichspogromnacht in Brand gesetzt und vollständig zerstört; zugleich wurden jüdische Bürger misshandelt, festgenommen und ihre Geschäfte unter massivem Druck geschlossen.",
-    "bild": "10-1938.png"
-  },
+
   "10.11.1976": {
     "jahr": "1976",
     "titel": "Fußgängerzone wird erweitert",
     "text": "Am 10. November 1976 berichtete die Wolfenbütteler Zeitung über die Erweiterung der Fußgängerzone: Der autofreie Bereich reichte nun von der Breiten Herzogstraße bis zum Schlossplatz und stärkte die Aufenthaltsqualität in der Altstadt.",
     "bild": "10-1976.png"
   },
+
+  "15.11.1968": {
+    "jahr": "1968",
+    "titel": "Eröffnung der Ausstellung historischer Spielzeuge im Heimatmuseum",
+    "text": "Am 15. November 1968 wurde im Heimatmuseum Wolfenbüttel eine große Ausstellung mit seltenen historischen Spielzeugen eröffnet. Die liebevoll restaurierten Stücke boten eindrucksvolle Einblicke in die Kinderwelt früherer Generationen.",
+    "bild": "15-1968.png"
+  },
+
   "15.11.1976": {
     "jahr": "1976",
     "titel": "Kranzniederlegung am Nathan-Denkmal",
-    "text": "Am 15. November 1976 legte der Ehrenvorsitzende des niedersächsischen Freien Deutschen Autorenverbandes, der Mundartdichter Moritz Jahn, einen Kranz vor dem Nathan-Denkmal nieder und erinnerte damit an Humanität und Toleranz.",
+    "text": "Am 15. November 1976 legte der Mundartdichter Moritz Jahn einen Kranz vor dem Nathan-Denkmal nieder und erinnerte an Humanität und Toleranz.",
     "bild": "15-1976.png"
   },
+
+  "17.11.1985": {
+    "jahr": "1985",
+    "titel": "Große Gefahrgut-Übung im Schering-Werksteil Linden",
+    "text": "Am 17. November 1985 fand im Schering-Werksteil Linden eine groß angelegte Alarmübung statt. Mehrere simulierte Zwischenfälle – auslaufende Flüssigkeiten, ein Brand und ein Stromausfall – wurden realistisch nachgestellt, um Einsatzabläufe und Zusammenarbeit der Feuerwehren zu überprüfen.",
+    "bild": "17-1985.png"
+  },
+
+  "19.11.1969": {
+    "jahr": "1969",
+    "titel": "Abschiedsparade des 5th Royal Tank Regiment",
+    "text": "Am 19. November 1969 verabschiedete sich das 5th Royal Tank Regiment mit einer eindrucksvollen Parade von Wolfenbüttel. Nach zwei Jahren dankten die britischen Soldaten der Bevölkerung für die erfahrene Gastfreundschaft.",
+    "bild": "19-1969.png"
+  },
+
+  "27.11.1965": {
+    "jahr": "1965",
+    "titel": "Neues Wolfenbütteler Tierheim kurz vor der Eröffnung",
+    "text": "Am 27. November 1965 wurde berichtet, dass das neue Tierheim der Stadt Wolfenbüttel fast fertiggestellt sei und Anfang 1966 eröffnet werden solle. Die Anlage bot verbesserte Bedingungen für Hunde und Katzen sowie modernere Arbeitsmöglichkeiten für das Pflegepersonal.",
+    "bild": "27-1965.png"
+  },
+
   "27.11.1976": {
     "jahr": "1976",
     "titel": "Bahnhof in neuem Glanz",
-    "text": "Im November 1976 zeigte sich der Wolfenbütteler Bahnhof nach einer gründlichen Sandstrahlreinigung von Ruß und Schmutz der vergangenen Jahrzehnte wieder in seinem historischen Erscheinungsbild.",
+    "text": "Im November 1976 zeigte sich der Wolfenbütteler Bahnhof nach einer gründlichen Sandstrahlreinigung wieder in seinem historischen Erscheinungsbild.",
     "bild": "27-1976.png"
   }
-
 }
