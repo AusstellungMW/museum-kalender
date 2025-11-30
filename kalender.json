@@ -215,5 +215,34 @@
     "titel": "Bahnhof in neuem Glanz",
     "text": "Im November 1976 zeigte sich der Wolfenbütteler Bahnhof nach einer gründlichen Sandstrahlreinigung wieder in seinem historischen Erscheinungsbild.",
     "bild": "27-1976.png"
-  }
+  },
+
+  "01.12.1966": {
+  "jahr": "1966",
+  "titel": "Kultur auf Rädern – Fahrbücherei des Landkreises",
+  "text": "Am 1. Dezember 1966 kündigte der Landkreis Wolfenbüttel den Aufbau einer Fahrbücherei an, die mit zunächst rund 10.000 Bänden vor allem kleinere Gemeinden regelmäßig mit Büchern versorgen sollte. Das Projekt galt als wichtiger Schritt, um Kultur und Bildung auch in die entlegeneren Orte des Kreisgebietes zu bringen.",
+  "bild": "01-1966.png"
+},
+
+"02.12.1957": {
+  "jahr": "1957",
+  "titel": "„Meistersinger“-Wettbewerb für Kanarienvögel",
+  "text": "Am 2. Dezember 1957 richtete der Kanarienzuchtverein 1926 Wolfenbüttel im „Bayrischen Hof“ einen großen Meistersinger-Wettbewerb mit rund 140 Kanarienvögeln aus. Als besonders erfolgreich erwies sich der Züchter Alfons Abmann, dessen Vögel mehrere Preise errangen und das hohe Niveau der lokalen Vogelzucht unterstrichen.",
+  "bild": "02-1957.png"
+},
+
+"18.12.1957": {
+  "jahr": "1957",
+  "titel": "Neubau des Arbeitsamts im Waisenhausgarten",
+  "text": "Am 18. Dezember 1957 wurde im Waisenhausgarten der Neubau eines Dienstgebäudes für das Arbeitsamt Wolfenbüttel begonnen, um die beengten und überfüllten bisherigen Räume abzulösen. Der moderne Bau sollte den „Schlangenwinter“ mit langen Warteschlangen beenden und ab 1958 deutlich verbesserte Arbeitsbedingungen schaffen.",
+  "bild": "18-1957.png"
+},
+
+"19.12.1966": {
+  "jahr": "1966",
+  "titel": "Weihnachtsfeier mit der Kapelle der „Irish Hussars“",
+  "text": "Am 19. Dezember 1966 sorgte die in Wolfenbüttel stationierte Kapelle der „Irish Hussars“ bei der Weihnachtsfeier des Zentralverbands der Arbeitsinvaliden für eine festliche musikalische Stimmung. Die Feier bot vielen älteren und kriegsversehrten Teilnehmern einen Moment der Gemeinschaft und der Erinnerung in der Vorweihnachtszeit.",
+  "bild": "19-1966.png"
+}
+
 }
