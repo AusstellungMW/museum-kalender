@@ -404,7 +404,35 @@
     "titel": "Neue Verkehrszeichen in Wolfenbüttel",
     "text": "Am 24. Februar 1971 wurden in Wolfenbüttel im Zuge der neuen Straßenverkehrsordnung zahlreiche neue Vorfahrtsschilder aufgestellt, um die ab März geltenden Verkehrsregeln sichtbar umzusetzen.",
     "bild": "24-1971.png"
-  }
+  },
+
+  "07.03.1954": {
+  "jahr": "1954",
+  "titel": "Große internationale Modenschau im Kaffeehaus",
+  "text": "Am 7. März 1954 fand im Kaffeehaus am Lessingtheater eine große internationale Modenschau statt, bei der Haute-Couture-Modelle aus Paris, London, Rom, Berlin und Kanada präsentiert wurden. Stargast war das Mannequin Yvonne Demain. Durch das Programm führte der bekannte RIAS-Moderator Wilhelm Kunze.",
+  "bild": "7-1954.png"
+},
+
+"08.03.1954": {
+  "jahr": "1954",
+  "titel": "Neuauflage des Adressbuches der Stadt Wolfenbüttel",
+  "text": "Im März 1954 erschien eine Neuauflage des Adressbuches der Stadt Wolfenbüttel. Aufgrund zahlreicher Veränderungen seit der letzten Ausgabe wurden Einwohner, Berufe und Anschriften sorgfältig aktualisiert. Das Adressbuch diente als wichtiges Nachschlagewerk für Verwaltung, Handel und Bürgerschaft.",
+  "bild": "8-1954.png"
+},
+
+"12.03.1954": {
+  "jahr": "1954",
+  "titel": "Wunschzettel für Bauinteressenten an der Langen Straße",
+  "text": "Im März 1954 informierte die Stadt Wolfenbüttel Bauinteressenten über moderne Wohnungsbauprojekte an der Langen Straße. Geplant waren neue Einraum-, Zwei- und Dreizimmerwohnungen sowie Ladengeschäfte, um dem steigenden Wohnraumbedarf der Nachkriegszeit gerecht zu werden.",
+  "bild": "12-1954.png"
+},
+
+"25.03.1954": {
+  "jahr": "1954",
+  "titel": "Der neue Weg für Radfahrer",
+  "text": "Im März 1954 berichtete die Presse über neue Verkehrsplanungen für Radfahrer in Stadt und Kreis Wolfenbüttel. Ziel war es, durch verbesserte Wegeführungen und Sicherheitsmaßnahmen den zunehmenden Radverkehr geordnet und sicher durch das Stadtgebiet zu lenken.",
+  "bild": "25-1954.png"
+}
 
  
 
