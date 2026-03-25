@@ -434,154 +434,137 @@
   "text": "Im März 1954 berichtete die Presse über neue Verkehrsplanungen für Radfahrer in Stadt und Kreis Wolfenbüttel. Ziel war es, durch verbesserte Wegeführungen und Sicherheitsmaßnahmen den zunehmenden Radverkehr geordnet und sicher durch das Stadtgebiet zu lenken.",
   "bild": "25-03-1954.png"
 },
-  {
-  "03.04.1956": {
-    "jahr": "1956",
-    "titel": "Volkshochschule bietet Schreibkurse an",
-    "text": "Im April 1956 bot die Volkshochschule Wolfenbüttel in Zusammenarbeit mit der kaufmännischen Privatschule Oskar Kämmer Kurse in Stenografie und Maschinenschreiben an und reagierte damit auf den steigenden Bedarf an Büro- und Verwaltungstätigkeiten.",
-    "bild": "3-04-1956.png"
-  },
-  "05.04.1956a": {
-    "jahr": "1956",
-    "titel": "Ehrung Lessings zum 175. Todestag",
-    "text": "Am 5. April 1956 wurde in Wolfenbüttel anlässlich des 175. Todestages Gotthold Ephraim Lessings ein Kranz niedergelegt und damit das Andenken an den bedeutenden Dichter und Aufklärer gewürdigt.",
-    "bild": "5-04-1956a.png"
-  },
-  "05.04.1956b": {
-    "jahr": "1956",
-    "titel": "Verkehrsunfall mit Überschlag",
-    "text": "Im April 1956 berichtete die Presse über einen Verkehrsunfall bei Wolfenbüttel, bei dem ein Fahrzeug gegen einen Baum prallte und sich überschlug; mehrere Personen wurden dabei verletzt und ins Krankenhaus gebracht.",
-    "bild": "5-04-1956b.png"
-  },
-  "05.04.1956c": {
-    "jahr": "1956",
-    "titel": "Blumen- und Pflanzenangebot in Wolfenbüttel",
-    "text": "Im April 1956 warb ein Wolfenbütteler Blumenhaus mit einem umfangreichen Angebot an Zierpflanzen, Rosen und Obstgehölzen und spiegelte damit die Bedeutung von Gartenkultur und Selbstversorgung in der Nachkriegszeit wider.",
-    "bild": "5-04-1956c.png"
-  },
-  "06.04.1956": {
-    "jahr": "1956",
-    "titel": "Friseurbetriebe bleiben geschlossen",
-    "text": "Im April 1956 wurde bekannt gegeben, dass die Friseurbetriebe im Kreis Wolfenbüttel außerhalb der Festwochen dienstags geschlossen bleiben, um den Mitarbeitern einen regelmäßigen Freizeitausgleich zu ermöglichen.",
-    "bild": "6-04-1956.png"
-  },
-  "07.04.1956": {
-    "jahr": "1956",
-    "titel": "Großer Ostermarkt auf dem Schlossplatz",
-    "text": "Im April 1956 fand auf dem Schlossplatz in Wolfenbüttel ein großer Ostermarkt mit zahlreichen Verkaufsständen, Fahrgeschäften und Unterhaltungsangeboten statt, der viele Besucher anzog.",
-    "bild": "7-04-1956.png"
-  },
-  "28.04.1956": {
-    "jahr": "1956",
-    "titel": "Einladung zum Tanz in den Mai",
-    "text": "Ende April 1956 lud das Schützenhaus Wolfenbüttel zu einem großen Tanz in den Mai mit Wahl der Maikönigin und anschließender Maifeier ein, die traditionell zahlreiche Gäste zusammenbrachte.",
-    "bild": "28-04-1956.png"
-  },
-
-  "01.04.1964a": {
+  
+  "01.04.1964": {
     "jahr": "1964",
     "titel": "Wiedereröffnung der Gaststätte „Zum Jägermeister“",
-    "text": "Am 1. April 1964 wurde die Gaststätte „Zum Jägermeister“ in der Ernst-Moritz-Arndt-Straße nach Renovierungsarbeiten wiedereröffnet und bot ihren Gästen fortan einen modernisierten Gastraum mit Speisen und Getränken.",
-    "bild": "1-04-1964a.png"
+    "text": "Am 1. April 1964 wurde die Gaststätte „Zum Jägermeister“ in Wolfenbüttel nach Renovierung wiedereröffnet und bot ihren Gästen eine modernisierte Atmosphäre.",
+    "bild": "1-04-1964.png"
   },
-  "01.04.1964b": {
-    "jahr": "1964",
-    "titel": "100 weibliche Arbeitskräfte gesucht",
-    "text": "Im April 1964 warb die Kuba-Imperial in Wolfenbüttel mit einer großformatigen Anzeige um 100 weibliche Arbeitskräfte und bot eine leichte, sitzende Tätigkeit bei guter Bezahlung in modernen Fabrikationsräumen an.",
-    "bild": "1-04-1964b.png"
+
+  "03.04.1956": {
+    "jahr": "1956",
+    "titel": "Volkshochschule: Schreib- und Stenokurse",
+    "text": "Im April 1956 begann ein Kursangebot der Volkshochschule Wolfenbüttel für Stenografie und Maschinenschreiben in Zusammenarbeit mit einer Privatschule.",
+    "bild": "3-04-1956.png"
   },
+
   "03.04.1964": {
     "jahr": "1964",
-    "titel": "Stellenanzeige der Maschinenfabrik Gebrüder Welger",
-    "text": "Am 3. April 1964 suchte die Maschinenfabrik Gebrüder Welger in Wolfenbüttel E-Schweißer, Maler und Anstreicher und verdeutlichte damit den anhaltenden Bedarf an Fachkräften in der regionalen Industrie.",
+    "titel": "RICOSTA-Schuhwerbung",
+    "text": "Im April 1964 warb das Schuhhaus Erich Röber für robuste Kinderschuhe der Marke RICOSTA für den Schulalltag.",
     "bild": "3-04-1964.png"
   },
+
+  "04.04.1964": {
+    "jahr": "1964",
+    "titel": "Kuba-Imperial sucht Arbeitskräfte",
+    "text": "Im April 1964 veröffentlichte das Unternehmen Kuba-Imperial eine Stellenanzeige zur Gewinnung neuer Arbeitskräfte.",
+    "bild": "4-04-1964.png"
+  },
+
+  "05.04.1956a": {
+    "jahr": "1956",
+    "titel": "Ehrung Lessings",
+    "text": "Am 5. April 1956 wurde in Wolfenbüttel anlässlich eines Lessing-Jubiläums ein Kranz niedergelegt und an das Wirken des Dichters erinnert.",
+    "bild": "5-04-1956a.png"
+  },
+
+  "05.04.1956b": {
+    "jahr": "1956",
+    "titel": "Verkehrsunfall bei Wolfenbüttel",
+    "text": "Im April 1956 ereignete sich ein Verkehrsunfall, bei dem ein Fahrzeug von der Straße abkam und sich überschlug.",
+    "bild": "5-04-1956b.png"
+  },
+
+  "07.04.1976": {
+    "jahr": "1976",
+    "titel": "Circus Willy Hagenbeck zu Gast",
+    "text": "Im April 1976 gastierte der Circus Willy Hagenbeck in Wolfenbüttel und begeisterte das Publikum mit zahlreichen Vorstellungen.",
+    "bild": "7-04-1976.png"
+  },
+
   "09.04.1964": {
     "jahr": "1964",
     "titel": "Jürgen von Manger im Lessingtheater",
-    "text": "Am 9. April 1964 trat der bekannte Kabarettist Jürgen von Manger im Lessingtheater Wolfenbüttel auf und präsentierte humorvolle Geschichten und Szenen aus dem Alltag, die beim Publikum großen Anklang fanden.",
+    "text": "Am 9. April 1964 trat der bekannte Kabarettist Jürgen von Manger im Lessingtheater Wolfenbüttel auf.",
     "bild": "9-04-1964.png"
   },
+
+  "09.04.1976": {
+    "jahr": "1976",
+    "titel": "Öffentlicher Presseball",
+    "text": "Im April 1976 fand in der Lindenhalle ein öffentlicher Presseball mit Musik und Unterhaltung statt.",
+    "bild": "9-04-1976.png"
+  },
+
+  "10.04.1956": {
+    "jahr": "1956",
+    "titel": "Friseurbetriebe geschlossen",
+    "text": "Ab dem 10. April 1956 blieben Friseurbetriebe im Kreis Wolfenbüttel regelmäßig dienstags geschlossen.",
+    "bild": "10-04-1956.png"
+  },
+
+  "10.04.1976": {
+    "jahr": "1976",
+    "titel": "Internationale Jugendgruppe auf Reisen",
+    "text": "Im April 1976 startete eine internationale Jugendgruppe von Wolfenbüttel aus zu einer größeren Reise.",
+    "bild": "10-04-1976.png"
+  },
+
   "11.04.1964": {
     "jahr": "1964",
-    "titel": "Schuhwerbung am Stadtmarkt",
-    "text": "Im April 1964 warb das Wolfenbütteler Schuhhaus Erich Röber mit einer Anzeige für Kinderschuhe der Marke Ricosta und spiegelte damit den wachsenden Konsum und die Alltagskultur der 1960er-Jahre wider.",
+    "titel": "Tauben im Polizeidienst",
+    "text": "Im April 1964 setzte die Polizei in Wolfenbüttel Brieftauben ein, um Kommunikationsprobleme zu überbrücken.",
     "bild": "11-04-1964.png"
   },
 
-  "01.04.1976": {
-    "jahr": "1976",
-    "titel": "Jugendtreff „Teestube“ wird neu konzipiert",
-    "text": "Im April 1976 wurde der Jugendtreff „Teestube“ am Holzmarkt nach Renovierungsarbeiten neu ausgerichtet und sollte künftig weniger als offener Treffpunkt, sondern stärker als strukturierter Begegnungsort für Jugendliche dienen.",
-    "bild": "1-04-1976.png"
-  },
-  "07.04.1976": {
-    "jahr": "1976",
-    "titel": "Circus Willy Hagenbeck in Wolfenbüttel",
-    "text": "Im April 1976 gastierte der Circus Willy Hagenbeck auf dem Schützenplatz in Wolfenbüttel und bot mit zahlreichen Attraktionen ein abwechslungsreiches Programm für Jung und Alt.",
-    "bild": "7-04-1976.png"
-  },
-  "09.04.1976": {
-    "jahr": "1976",
-    "titel": "Öffentlicher Presseball in der Lindenhalle",
-    "text": "Im April 1976 fand in der Lindenhalle Wolfenbüttel ein öffentlicher Presseball mit Musik- und Showeinlagen statt, der zahlreiche Besucher anzog.",
-    "bild": "9-04-1976.png"
-  },
-  "10.04.1976": {
-    "jahr": "1976",
-    "titel": "Ausflugsfahrten ab Bahnhof Wolfenbüttel",
-    "text": "Im April 1976 wurden vom Wolfenbütteler Bahnhof organisierte Ausflugsfahrten angeboten, die insbesondere bei Schulklassen und Vereinen großen Anklang fanden.",
-    "bild": "10-04-1976.png"
-  },
   "15.04.1976": {
     "jahr": "1976",
-    "titel": "Aktion „Sorgenkind“ auf dem Wochenmarkt",
-    "text": "Im April 1976 engagierten sich Schülerinnen und Schüler im Rahmen der Aktion „Sorgenkind“ auf dem Wolfenbütteler Wochenmarkt und sammelten Spenden für soziale Projekte.",
+    "titel": "Aktion Sorgenkind",
+    "text": "Im April 1976 beteiligten sich Kinder in Wolfenbüttel an der „Aktion Sorgenkind“ und sammelten Spenden.",
     "bild": "15-04-1976.png"
   },
-  "21.04.1976": {
-    "jahr": "1976",
-    "titel": "Neubau von Gästehäusern in der Campestraße",
-    "text": "Im April 1976 wurde über den Bau neuer Gästehäuser in der Campestraße berichtet, die zur Erweiterung der touristischen Infrastruktur in Wolfenbüttel beitragen sollten.",
-    "bild": "21-04-1976.png"
-  },
-  "22.04.1976a": {
-    "jahr": "1976",
-    "titel": "Klassentreffen nach 40 Jahren",
-    "text": "Im April 1976 trafen sich ehemalige Schülerinnen einer Wolfenbütteler Schule nach 40 Jahren wieder und erinnerten gemeinsam an ihre Schulzeit.",
-    "bild": "22-04-1976a.png"
-  },
-  "22.04.1976b": {
-    "jahr": "1976",
-    "titel": "Tanzparty des WSV von 1945",
-    "text": "Am 24. April 1976 veranstaltete der WSV von 1945 in der Lindenhalle eine große Tanzparty mit Live-Musik, die zahlreiche Gäste anzog.",
-    "bild": "22-04-1976b.png"
-  },
+
   "22.04.1976c": {
     "jahr": "1976",
-    "titel": "Polizei setzt Brieftauben ein",
-    "text": "Im April 1976 berichtete die Presse über den Einsatz von Brieftauben bei der Polizei, die zur Übermittlung von Nachrichten in besonderen Situationen genutzt wurden.",
+    "titel": "Tanzparty 76",
+    "text": "Im April 1976 fand in der Lindenhalle eine große Tanzveranstaltung des WSV statt.",
     "bild": "22-04-1976c.png"
   },
+
   "23.04.1976": {
     "jahr": "1976",
-    "titel": "Wolfenbütteler Sänger bereiten Konzert vor",
-    "text": "Im April 1976 bereiteten sich die Sänger des Männergesangvereins Wolfenbüttel auf ein Konzert mit dem Programm „Lust’gen Braunschweiger“ vor.",
+    "titel": "Klassentreffen nach 40 Jahren",
+    "text": "Ehemalige Schülerinnen trafen sich in Wolfenbüttel nach Jahrzehnten wieder und erinnerten sich an ihre Schulzeit.",
     "bild": "23-04-1976.png"
   },
+
   "26.04.1976": {
     "jahr": "1976",
-    "titel": "Folgen einer Alkoholfahrt",
-    "text": "Im April 1976 berichtete die Presse über einen schweren Verkehrsunfall unter Alkoholeinfluss, bei dem ein Fahrzeug erheblich beschädigt wurde und der die Gefahren von Alkohol im Straßenverkehr deutlich machte.",
+    "titel": "Magnolie in Blüte",
+    "text": "Eine prächtige Magnolie im Stadtgebiet Wolfenbüttels stand im Frühjahr 1976 in voller Blüte.",
     "bild": "26-04-1976.png"
   },
+
   "27.04.1976": {
     "jahr": "1976",
-    "titel": "Magnolie in voller Blütenpracht",
-    "text": "Im April 1976 zeigte sich eine Magnolie im Stadtgebiet von Wolfenbüttel in voller Blüte und wurde als besonders eindrucksvolles Zeichen des Frühlings beschrieben.",
+    "titel": "Folgenschwere Alkoholfahrt",
+    "text": "Ein Verkehrsunfall unter Alkoholeinfluss führte im April 1976 zu erheblichen Schäden und Ermittlungen.",
     "bild": "27-04-1976.png"
+  },
+
+  "28.04.1956": {
+    "jahr": "1956",
+    "titel": "Großer Ostermarkt",
+    "text": "Im April 1956 fand auf dem Schlossplatz ein großer Ostermarkt mit zahlreichen Attraktionen statt.",
+    "bild": "28-04-1956.png"
+  },
+
+  "30.04.1956": {
+    "jahr": "1956",
+    "titel": "Tanz in den Mai",
+    "text": "Am 30. April 1956 wurde im Schützenhaus Wolfenbüttel der „Tanz in den Mai“ mit anschließender Maifeier veranstaltet.",
+    "bild": "30-04-1956.png"
   }
 }
-
-
-
