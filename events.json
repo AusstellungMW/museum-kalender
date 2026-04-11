@@ -1,14 +1,18 @@
 [
   {
-    "title": "# Öffentliche Führung durch das Bürger Museum",
-    "start": "2026-04-15T14:00"
+    "title": "# Ãffentliche FÃ¼hrung durch das BÃ¼rger Museum",
+    "start": "2026-04-15T14:00:00"
   },
   {
-    "title": "# Vortrag zur Stadtgeschichte Wolfenbüttels",
-    "start": "2026-04-18T18:30"
+    "title": "# Vortrag zur Stadtgeschichte WolfenbÃ¼ttels",
+    "start": "2026-04-18T18:30:00"
   },
   {
-    "title": "# Geschichte im Schloß",
-    "start": "2026-04-30T18:30"
+    "title": "# Geschichte im SchloÃ",
+    "start": "2026-04-30T18:30:00"
+  },
+  {
+    "title": "привет!",
+    "start": "2026-04-30T18:35:00"
   }
 ]
