@@ -1,12 +1,12 @@
 [
   {
-    "title": "Sonderausstellung Porzellan",
-    "text": "Entdecken Sie ausgewählte Stücke aus unserer Sammlung.",
+    "title": "Im Schloss Museum Wolfenbüttel:",
+    "text": "Sonderausstellung: Die Toten von Wolfenbüttel",
     "image": "bilder/ausstellung1.jpg"
   },
   {
-    "title": "Stadtgeschichte erleben",
-    "text": "Neue Einblicke in Wolfenbüttel im 20. Jahrhundert.",
+    "title": "Im Bürger Museum Wolfenbüttel:",
+    "text": "Sonderausstellung: Frauen im geteilten Deutschland",
     "image": "bilder/ausstellung2.jpg"
   }
 ]
