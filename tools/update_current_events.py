@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 HEADERS = {
     "Cache-Control": "no-cache",
     "Pragma": "no-cache",
-    "User-Agent": "MuseumCurrentEventsUpdater/1.0",
+    "User-Agent": "MuseumCurrentEventsUpdater/1.1",
 }
 
 OUTPUT_FILE = Path("current_events.json")
@@ -43,6 +43,17 @@ MUSEUM_EVENT_SOURCES = [
 def normalize_spaces(text: str) -> str:
     text = (text or "").replace("\xa0", " ")
     return re.sub(r"\s+", " ", text.strip())
+
+
+def clean_time_text(text: str) -> str:
+    """
+    Entfernt technische/Screenreader-Labels aus der Website-Ausgabe.
+    Aus 'Uhrzeit: 11:00 bis 11:50 Uhr' wird '11:00 bis 11:50 Uhr'.
+    """
+    text = normalize_spaces(text)
+    text = re.sub(r"^Uhrzeit:\s*", "", text, flags=re.IGNORECASE).strip()
+    text = re.sub(r"^Datum:\s*", "", text, flags=re.IGNORECASE).strip()
+    return text
 
 
 def normalize_event_title(title: str) -> str:
@@ -80,10 +91,12 @@ def fetch_text_url(url: str) -> str | None:
         r = requests.get(url, timeout=25, headers=HEADERS, allow_redirects=True)
         r.raise_for_status()
 
+        # Die Website nutzt teilweise ISO-8859-15.
         if not r.encoding or r.encoding.lower() in ("iso-8859-1", "latin-1"):
             r.encoding = r.apparent_encoding or "ISO-8859-15"
 
         return r.text.lstrip("\ufeff")
+
     except Exception as e:
         print(f"ERROR fetch {url}: {type(e).__name__}: {e}")
         return None
@@ -91,7 +104,7 @@ def fetch_text_url(url: str) -> str | None:
 
 def parse_german_event_datetime(date_text: str, time_text: str = "") -> dt.datetime | None:
     date_text = normalize_spaces(date_text)
-    time_text = normalize_spaces(time_text)
+    time_text = clean_time_text(time_text)
 
     m_date = re.search(r"(\d{1,2})\.(\d{1,2})\.(\d{4})", date_text)
     if not m_date:
@@ -164,12 +177,13 @@ def extract_event_from_li(li, source: dict) -> dict | None:
     if not date_text:
         return None
 
+    time_text = clean_time_text(time_text)
+
     start_dt = parse_german_event_datetime(date_text, time_text)
     if start_dt is None:
         return None
 
     price = detect_event_price(title, source["url"], source.get("kind", ""))
-
     event_id = make_event_id(source["museum"], start_dt, title)
 
     return {
@@ -193,6 +207,7 @@ def fetch_museum_events_from_site() -> list[dict]:
     for source in MUSEUM_EVENT_SOURCES:
         html = fetch_text_url(source["url"])
         if not html:
+            print(f"Keine HTML-Daten: {source['url']}")
             continue
 
         soup = BeautifulSoup(html, "html.parser")
