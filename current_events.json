@@ -1,15 +1,5 @@
 [
   {
-    "event_id": "schloss-museum_2026-04-26_11-00_der-tanzmeister-fuehrt_c5afbc6e",
-    "title": "Der Tanzmeister führt",
-    "museum": "Schloss Museum",
-    "kind": "Öffentliche Führung",
-    "start": "2026-04-26T11:00",
-    "time_text": "11:00 bis 11:50 Uhr",
-    "price": "9,50 €",
-    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
-  },
-  {
     "event_id": "schloss-museum_2026-04-26_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_333b8bbf",
     "title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
     "museum": "Schloss Museum",
