@@ -1,1 +1,4 @@
-()
+{
+  "temperature_c": 24.6,
+  "humidity_percent": 37.2
+}
