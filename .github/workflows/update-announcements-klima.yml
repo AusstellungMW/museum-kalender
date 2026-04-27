@@ -1,0 +1,37 @@
+name: Update announcements climate line
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "Messungen.json"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-klima-line:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update KLIMA_AUTO line
+        run: python .github/scripts/update_klima_auto.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          if git diff --quiet announcements.txt; then
+            echo "No changes in announcements.txt"
+          else
+            git add announcements.txt
+            git commit -m "Update climate announcement"
+            git push
+          fi
