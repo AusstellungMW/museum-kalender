@@ -1,15 +1,5 @@
 [
   {
-    "event_id": "schloss-museum_2026-05-03_15-00_fuehrung-zu-frauen-am-wolfenbuetteler-hof_3a4d84a6",
-    "title": "Führung zu \"Frauen am Wolfenbütteler Hof\"",
-    "museum": "Schloss Museum",
-    "kind": "Öffentliche Führung",
-    "start": "2026-05-03T15:00",
-    "time_text": "15:00 bis 16:00 Uhr",
-    "price": "7,50 €",
-    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
-  },
-  {
     "event_id": "buerger-museum_2026-05-05_17-00_nachholtermin-kuratorin-clara-marz-spricht-ueber-frauen-im-geteilten-deutschland_5813e995",
     "title": "Nachholtermin: Kuratorin Clara Marz spricht über \"Frauen im geteilten Deutschland\"",
     "museum": "Bürger Museum",
