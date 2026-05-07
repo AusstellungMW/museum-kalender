@@ -5,29 +5,9 @@
     "museum": "Schloss Museum",
     "kind": "Öffentliche Führung",
     "start": "2026-05-10T15:00",
-    "time_text": "15:00 bis 16:00 Uhr",
+    "time_text": "15:00 bis 15:45 Uhr",
     "price": "7,50 €",
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
-  },
-  {
-    "event_id": "buerger-museum_2026-05-17_10-00_die-vielfalt-der-museen-entdecken-internationaler-museumstag-2026_cbcd26c8",
-    "title": "Die Vielfalt der Museen entdecken: Internationaler Museumstag 2026",
-    "museum": "Bürger Museum",
-    "kind": "Veranstaltung",
-    "start": "2026-05-17T10:00",
-    "time_text": "10:00 bis 17:00 Uhr",
-    "price": "",
-    "source_url": "https://www.museumwolfenbuettel.de/B%C3%BCrger-Museum/Veranstaltungen/"
-  },
-  {
-    "event_id": "schloss-museum_2026-05-17_10-00_die-vielfalt-der-museen-entdecken-internationaler-museumstag-2026_fd8e48b1",
-    "title": "Die Vielfalt der Museen entdecken: Internationaler Museumstag 2026",
-    "museum": "Schloss Museum",
-    "kind": "Veranstaltung",
-    "start": "2026-05-17T10:00",
-    "time_text": "10:00 bis 17:00 Uhr",
-    "price": "",
-    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/Veranstaltungen/"
   },
   {
     "event_id": "schloss-museum_2026-05-24_11-00_oeffentliche-fuehrungen-durch-die-sonderausstellung-die-toten-von-wolfenbuettel_ea55203e",
@@ -45,7 +25,7 @@
     "museum": "Schloss Museum",
     "kind": "Öffentliche Führung",
     "start": "2026-05-24T15:00",
-    "time_text": "15:00 bis 16:00 Uhr",
+    "time_text": "15:00 bis 15:45 Uhr",
     "price": "7,50 €",
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
   },
@@ -55,7 +35,7 @@
     "museum": "Schloss Museum",
     "kind": "Öffentliche Führung",
     "start": "2026-05-31T15:00",
-    "time_text": "15:00 bis 16:00 Uhr",
+    "time_text": "15:00 bis 15:45 Uhr",
     "price": "7,50 €",
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
   },
@@ -75,7 +55,7 @@
     "museum": "Schloss Museum",
     "kind": "Öffentliche Führung",
     "start": "2026-06-07T15:00",
-    "time_text": "15:00 bis 16:00 Uhr",
+    "time_text": "15:00 bis 15:45 Uhr",
     "price": "7,50 €",
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
   },
@@ -85,7 +65,7 @@
     "museum": "Schloss Museum",
     "kind": "Öffentliche Führung",
     "start": "2026-06-14T15:00",
-    "time_text": "15:00 bis 16:00 Uhr",
+    "time_text": "15:00 bis 15:45 Uhr",
     "price": "7,50 €",
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
   },
@@ -105,7 +85,7 @@
     "museum": "Schloss Museum",
     "kind": "Öffentliche Führung",
     "start": "2026-06-21T15:00",
-    "time_text": "15:00 bis 16:00 Uhr",
+    "time_text": "15:00 bis 15:45 Uhr",
     "price": "7,50 €",
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
   },
@@ -125,7 +105,7 @@
     "museum": "Schloss Museum",
     "kind": "Öffentliche Führung",
     "start": "2026-06-28T15:00",
-    "time_text": "15:00 bis 16:00 Uhr",
+    "time_text": "15:00 bis 15:45 Uhr",
     "price": "7,50 €",
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
   },
@@ -135,7 +115,7 @@
     "museum": "Schloss Museum",
     "kind": "Öffentliche Führung",
     "start": "2026-07-05T15:00",
-    "time_text": "15:00 bis 16:00 Uhr",
+    "time_text": "15:00 bis 15:45 Uhr",
     "price": "7,50 €",
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
   },
@@ -155,7 +135,7 @@
     "museum": "Schloss Museum",
     "kind": "Öffentliche Führung",
     "start": "2026-07-12T15:00",
-    "time_text": "15:00 bis 16:00 Uhr",
+    "time_text": "15:00 bis 15:45 Uhr",
     "price": "7,50 €",
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
   },
@@ -165,7 +145,7 @@
     "museum": "Schloss Museum",
     "kind": "Öffentliche Führung",
     "start": "2026-07-19T15:00",
-    "time_text": "15:00 bis 16:00 Uhr",
+    "time_text": "15:00 bis 15:45 Uhr",
     "price": "7,50 €",
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
   },
@@ -185,7 +165,7 @@
     "museum": "Schloss Museum",
     "kind": "Öffentliche Führung",
     "start": "2026-07-26T15:00",
-    "time_text": "15:00 bis 16:00 Uhr",
+    "time_text": "15:00 bis 15:45 Uhr",
     "price": "7,50 €",
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
   },
