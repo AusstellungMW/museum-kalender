@@ -1,25 +1,5 @@
 [
   {
-    "event_id": "buerger-museum_2026-05-17_10-00_die-vielfalt-der-museen-entdecken-internationaler-museumstag-2026-im-buerger-museum_796af0a1",
-    "title": "Die Vielfalt der Museen entdecken: Internationaler Museumstag 2026 im Bürger Museum",
-    "museum": "Bürger Museum",
-    "kind": "Veranstaltung",
-    "start": "2026-05-17T10:00",
-    "time_text": "10:00 bis 17:00 Uhr",
-    "price": "",
-    "source_url": "https://www.museumwolfenbuettel.de/B%C3%BCrger-Museum/Veranstaltungen/"
-  },
-  {
-    "event_id": "schloss-museum_2026-05-17_10-00_die-vielfalt-der-museen-entdecken-internationaler-museumstag-2026-im-schloss-museum_03b2d86c",
-    "title": "Die Vielfalt der Museen entdecken: Internationaler Museumstag 2026 im Schloss Museum",
-    "museum": "Schloss Museum",
-    "kind": "Veranstaltung",
-    "start": "2026-05-17T10:00",
-    "time_text": "10:00 bis 17:00 Uhr",
-    "price": "",
-    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/Veranstaltungen/"
-  },
-  {
     "event_id": "schloss-museum_2026-05-24_11-00_oeffentliche-fuehrungen-durch-die-sonderausstellung-die-toten-von-wolfenbuettel_ea55203e",
     "title": "Öffentliche Führungen durch die Sonderausstellung »Die Toten von Wolfenbüttel«",
     "museum": "Schloss Museum",
