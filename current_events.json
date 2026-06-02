@@ -30,6 +30,16 @@
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
   },
   {
+    "event_id": "buerger-museum_2026-06-20_11-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_b0ab3fd2",
+    "title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "museum": "Bürger Museum",
+    "kind": "Veranstaltung",
+    "start": "2026-06-20T11:00",
+    "time_text": "11:00 bis 11:45 Uhr",
+    "price": "",
+    "source_url": "https://www.museumwolfenbuettel.de/B%C3%BCrger-Museum/Veranstaltungen/"
+  },
+  {
     "event_id": "schloss-museum_2026-06-21_11-00_der-tanzmeister-fuehrt_6229c8f1",
     "title": "Der Tanzmeister führt",
     "museum": "Schloss Museum",
@@ -38,16 +48,6 @@
     "time_text": "11:00 bis 11:50 Uhr",
     "price": "9,50 €",
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
-  },
-  {
-    "event_id": "buerger-museum_2026-06-21_15-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_1327ad01",
-    "title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
-    "museum": "Bürger Museum",
-    "kind": "Veranstaltung",
-    "start": "2026-06-21T15:00",
-    "time_text": "15:00 bis 15:45 Uhr",
-    "price": "",
-    "source_url": "https://www.museumwolfenbuettel.de/B%C3%BCrger-Museum/Veranstaltungen/"
   },
   {
     "event_id": "schloss-museum_2026-06-21_15-00_fuehrung-zu-frauen-am-wolfenbuetteler-hof_91ec2ea1",
@@ -110,6 +110,16 @@
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
   },
   {
+    "event_id": "buerger-museum_2026-07-18_11-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_973652c3",
+    "title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "museum": "Bürger Museum",
+    "kind": "Veranstaltung",
+    "start": "2026-07-18T11:00",
+    "time_text": "11:00 bis 11:45 Uhr",
+    "price": "",
+    "source_url": "https://www.museumwolfenbuettel.de/B%C3%BCrger-Museum/Veranstaltungen/"
+  },
+  {
     "event_id": "schloss-museum_2026-07-19_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_36c8cffd",
     "title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
     "museum": "Schloss Museum",
@@ -140,12 +150,52 @@
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
   },
   {
+    "event_id": "schloss-museum_2026-08-02_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_9e8244c2",
+    "title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "kind": "Öffentliche Führung",
+    "start": "2026-08-02T15:00",
+    "time_text": "15:00 bis 15:45 Uhr",
+    "price": "7,50 €",
+    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
+  },
+  {
     "event_id": "schloss-museum_2026-08-09_11-00_oeffentliche-fuehrungen-durch-die-sonderausstellung-die-toten-von-wolfenbuettel_b6814e3b",
     "title": "Öffentliche Führungen durch die Sonderausstellung »Die Toten von Wolfenbüttel«",
     "museum": "Schloss Museum",
     "kind": "Öffentliche Führung",
     "start": "2026-08-09T11:00",
     "time_text": "11:00 bis 11:45 Uhr",
+    "price": "7,50 €",
+    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
+  },
+  {
+    "event_id": "schloss-museum_2026-08-09_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_fab8bcfb",
+    "title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "kind": "Öffentliche Führung",
+    "start": "2026-08-09T15:00",
+    "time_text": "15:00 bis 15:45 Uhr",
+    "price": "7,50 €",
+    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
+  },
+  {
+    "event_id": "buerger-museum_2026-08-15_11-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_a1e0efe2",
+    "title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "museum": "Bürger Museum",
+    "kind": "Veranstaltung",
+    "start": "2026-08-15T11:00",
+    "time_text": "11:00 bis 11:45 Uhr",
+    "price": "",
+    "source_url": "https://www.museumwolfenbuettel.de/B%C3%BCrger-Museum/Veranstaltungen/"
+  },
+  {
+    "event_id": "schloss-museum_2026-08-16_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_dc357b6b",
+    "title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "kind": "Öffentliche Führung",
+    "start": "2026-08-16T15:00",
+    "time_text": "15:00 bis 15:45 Uhr",
     "price": "7,50 €",
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
   },
@@ -158,6 +208,36 @@
     "time_text": "11:00 bis 11:45 Uhr",
     "price": "7,50 €",
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
+  },
+  {
+    "event_id": "schloss-museum_2026-08-23_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_9a11a868",
+    "title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "kind": "Öffentliche Führung",
+    "start": "2026-08-23T15:00",
+    "time_text": "15:00 bis 15:45 Uhr",
+    "price": "7,50 €",
+    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
+  },
+  {
+    "event_id": "schloss-museum_2026-08-30_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_42806141",
+    "title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "kind": "Öffentliche Führung",
+    "start": "2026-08-30T15:00",
+    "time_text": "15:00 bis 15:45 Uhr",
+    "price": "7,50 €",
+    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
+  },
+  {
+    "event_id": "buerger-museum_2026-09-05_11-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_ae200779",
+    "title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "museum": "Bürger Museum",
+    "kind": "Veranstaltung",
+    "start": "2026-09-05T11:00",
+    "time_text": "11:00 bis 11:45 Uhr",
+    "price": "",
+    "source_url": "https://www.museumwolfenbuettel.de/B%C3%BCrger-Museum/Veranstaltungen/"
   },
   {
     "event_id": "schloss-museum_2026-09-13_11-00_oeffentliche-fuehrungen-durch-die-sonderausstellung-die-toten-von-wolfenbuettel_29fccb0c",
@@ -190,6 +270,16 @@
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
   },
   {
+    "event_id": "buerger-museum_2026-10-17_11-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_035e6b14",
+    "title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "museum": "Bürger Museum",
+    "kind": "Veranstaltung",
+    "start": "2026-10-17T11:00",
+    "time_text": "11:00 bis 11:45 Uhr",
+    "price": "",
+    "source_url": "https://www.museumwolfenbuettel.de/B%C3%BCrger-Museum/Veranstaltungen/"
+  },
+  {
     "event_id": "schloss-museum_2026-10-25_11-00_oeffentliche-fuehrungen-durch-die-sonderausstellung-die-toten-von-wolfenbuettel_691c169d",
     "title": "Öffentliche Führungen durch die Sonderausstellung »Die Toten von Wolfenbüttel«",
     "museum": "Schloss Museum",
@@ -198,6 +288,16 @@
     "time_text": "11:00 bis 11:45 Uhr",
     "price": "7,50 €",
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
+  },
+  {
+    "event_id": "buerger-museum_2026-11-07_11-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_de612e47",
+    "title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "museum": "Bürger Museum",
+    "kind": "Veranstaltung",
+    "start": "2026-11-07T11:00",
+    "time_text": "11:00 bis 11:45 Uhr",
+    "price": "",
+    "source_url": "https://www.museumwolfenbuettel.de/B%C3%BCrger-Museum/Veranstaltungen/"
   },
   {
     "event_id": "schloss-museum_2026-11-15_11-00_oeffentliche-fuehrungen-durch-die-sonderausstellung-die-toten-von-wolfenbuettel_b7099ac9",
@@ -228,5 +328,45 @@
     "time_text": "11:00 bis 11:45 Uhr",
     "price": "7,50 €",
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
+  },
+  {
+    "event_id": "buerger-museum_2026-12-05_11-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_90d43f62",
+    "title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "museum": "Bürger Museum",
+    "kind": "Veranstaltung",
+    "start": "2026-12-05T11:00",
+    "time_text": "11:00 bis 11:45 Uhr",
+    "price": "",
+    "source_url": "https://www.museumwolfenbuettel.de/B%C3%BCrger-Museum/Veranstaltungen/"
+  },
+  {
+    "event_id": "buerger-museum_2027-01-16_11-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_5b831474",
+    "title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "museum": "Bürger Museum",
+    "kind": "Veranstaltung",
+    "start": "2027-01-16T11:00",
+    "time_text": "11:00 bis 11:45 Uhr",
+    "price": "",
+    "source_url": "https://www.museumwolfenbuettel.de/B%C3%BCrger-Museum/Veranstaltungen/"
+  },
+  {
+    "event_id": "buerger-museum_2027-02-20_11-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_670d4b9c",
+    "title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "museum": "Bürger Museum",
+    "kind": "Veranstaltung",
+    "start": "2027-02-20T11:00",
+    "time_text": "11:00 bis 11:45 Uhr",
+    "price": "",
+    "source_url": "https://www.museumwolfenbuettel.de/B%C3%BCrger-Museum/Veranstaltungen/"
+  },
+  {
+    "event_id": "buerger-museum_2027-03-13_11-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_c9e2737e",
+    "title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "museum": "Bürger Museum",
+    "kind": "Veranstaltung",
+    "start": "2027-03-13T11:00",
+    "time_text": "11:00 bis 11:45 Uhr",
+    "price": "",
+    "source_url": "https://www.museumwolfenbuettel.de/B%C3%BCrger-Museum/Veranstaltungen/"
   }
 ]
