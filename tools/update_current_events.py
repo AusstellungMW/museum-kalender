@@ -132,6 +132,11 @@ def detect_event_price(title: str, source_url: str = "", kind: str = "") -> str:
     if "tanzmeister" in title_l:
         return PRICE_TANZMEISTER
 
+    # Sonderregel: Diese Veranstaltung steht unter "Veranstaltungen",
+    # soll aber wie eine öffentliche Führung mit 7,50 € angezeigt werden.
+    if "jüdisches leben in wolfenbüttel" in title_l:
+        return PRICE_PUBLIC_GUIDED_TOUR
+
     if "öffentliche führung" in kind_l:
         return PRICE_PUBLIC_GUIDED_TOUR
 
