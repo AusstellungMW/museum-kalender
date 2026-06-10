@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 HEADERS = {
     "Cache-Control": "no-cache",
     "Pragma": "no-cache",
-    "User-Agent": "MuseumCurrentEventsUpdater/1.1",
+    "User-Agent": "MuseumCurrentEventsUpdater/1.2",
 }
 
 OUTPUT_FILE = Path("current_events.json")
@@ -43,6 +43,25 @@ MUSEUM_EVENT_SOURCES = [
 def normalize_spaces(text: str) -> str:
     text = (text or "").replace("\xa0", " ")
     return re.sub(r"\s+", " ", text.strip())
+
+
+def normalize_for_price_match(text: str) -> str:
+    """
+    Macht Titel robuster vergleichbar:
+    - alles klein
+    - deutsche Umlaute werden ausgeschrieben
+    - Sonderzeichen werden zu Leerzeichen
+
+    So funktionieren sowohl:
+    'Jüdisches Leben in Wolfenbüttel'
+    als auch Varianten mit Bindestrich, Doppelpunkt oder anderer Schreibweise.
+    """
+    text = normalize_spaces(text).lower()
+    text = text.replace("ä", "ae").replace("ö", "oe").replace("ü", "ue").replace("ß", "ss")
+    text = unicodedata.normalize("NFKD", text)
+    text = "".join(ch for ch in text if not unicodedata.combining(ch))
+    text = re.sub(r"[^a-z0-9]+", " ", text)
+    return normalize_spaces(text)
 
 
 def clean_time_text(text: str) -> str:
@@ -126,6 +145,7 @@ def parse_german_event_datetime(date_text: str, time_text: str = "") -> dt.datet
 
 def detect_event_price(title: str, source_url: str = "", kind: str = "") -> str:
     title_l = normalize_spaces(title).lower()
+    title_key = normalize_for_price_match(title)
     url_l = source_url.lower()
     kind_l = kind.lower()
 
@@ -134,7 +154,8 @@ def detect_event_price(title: str, source_url: str = "", kind: str = "") -> str:
 
     # Sonderregel: Diese Veranstaltung steht unter "Veranstaltungen",
     # soll aber wie eine öffentliche Führung mit 7,50 € angezeigt werden.
-    if "jüdisches leben in wolfenbüttel" in title_l:
+    # Robuster Vergleich, damit Umlaute/Sonderzeichen keine Rolle spielen.
+    if "juedisches leben in wolfenbuettel" in title_key:
         return PRICE_PUBLIC_GUIDED_TOUR
 
     if "öffentliche führung" in kind_l:
@@ -244,6 +265,9 @@ def fetch_museum_events_from_site() -> list[dict]:
 
             seen.add(key)
             all_events.append(ev)
+
+            if "juedisches leben in wolfenbuettel" in normalize_for_price_match(ev["title"]):
+                print(f"PRICE CHECK: {ev['title']} -> {ev.get('price', '')!r}")
 
     all_events.sort(key=lambda x: x["start"])
     return all_events
