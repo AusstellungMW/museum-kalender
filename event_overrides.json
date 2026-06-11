@@ -88,37 +88,15 @@
     "custom_time_text": "15:00 bis 16:00 Uhr"
   },
   {
-    "event_id": "schloss-museum_2026-06-14_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_d4d3ab20",
-    "original_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
-    "museum": "Schloss Museum",
-    "start": "2026-06-14T15:00",
-    "locked": true,
-    "custom_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
-    "updated_at": "2026-04-29T09:46:57.232Z",
-    "custom_price": "7,50 €",
-    "custom_time_text": "15:00 bis 16:00 Uhr"
-  },
-  {
     "event_id": "schloss-museum_2026-06-21_11-00_der-tanzmeister-fuehrt_6229c8f1",
     "original_title": "Der Tanzmeister führt",
     "museum": "Schloss Museum",
     "start": "2026-06-21T11:00",
     "locked": true,
     "custom_title": "Der Tanzmeister führt",
-    "updated_at": "2026-04-29T09:46:57.232Z",
+    "updated_at": "2026-06-11T12:28:29.227Z",
     "custom_price": "9,50 €",
     "custom_time_text": "11:00 bis 11:50 Uhr"
-  },
-  {
-    "event_id": "schloss-museum_2026-06-21_15-00_fuehrung-zu-frauen-am-wolfenbuetteler-hof_91ec2ea1",
-    "original_title": "Führung zu \"Frauen am Wolfenbütteler Hof\"",
-    "museum": "Schloss Museum",
-    "start": "2026-06-21T15:00",
-    "locked": true,
-    "custom_title": "Führung zu \"Frauen am Wolfenbütteler Hof\"",
-    "updated_at": "2026-04-29T09:46:57.232Z",
-    "custom_price": "7,50 €",
-    "custom_time_text": "15:00 bis 16:00 Uhr"
   },
   {
     "event_id": "schloss-museum_2026-06-28_11-00_oeffentliche-fuehrungen-durch-die-sonderausstellung-die-toten-von-wolfenbuettel_ece44c23",
@@ -127,20 +105,9 @@
     "start": "2026-06-28T11:00",
     "locked": true,
     "custom_title": "Öffentliche Führungen durch die Sonderausstellung »Die Toten von Wolfenbüttel«",
-    "updated_at": "2026-04-29T09:46:57.232Z",
+    "updated_at": "2026-06-11T12:28:29.227Z",
     "custom_price": "7,50 €",
     "custom_time_text": "11:00 bis 11:45 Uhr"
-  },
-  {
-    "event_id": "schloss-museum_2026-06-28_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_c669bb82",
-    "original_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
-    "museum": "Schloss Museum",
-    "start": "2026-06-28T15:00",
-    "locked": true,
-    "custom_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
-    "updated_at": "2026-04-29T09:46:57.232Z",
-    "custom_price": "7,50 €",
-    "custom_time_text": "15:00 bis 16:00 Uhr"
   },
   {
     "event_id": "schloss-museum_2026-07-12_11-00_oeffentliche-fuehrungen-durch-die-sonderausstellung-die-toten-von-wolfenbuettel_88b4ef04",
@@ -149,7 +116,7 @@
     "start": "2026-07-12T11:00",
     "locked": true,
     "custom_title": "Öffentliche Führungen durch die Sonderausstellung »Die Toten von Wolfenbüttel«",
-    "updated_at": "2026-04-29T09:46:57.232Z",
+    "updated_at": "2026-06-11T12:28:29.227Z",
     "custom_price": "7,50 €",
     "custom_time_text": "11:00 bis 11:45 Uhr"
   },
@@ -160,7 +127,7 @@
     "start": "2026-07-26T11:00",
     "locked": true,
     "custom_title": "Öffentliche Führungen durch die Sonderausstellung »Die Toten von Wolfenbüttel«",
-    "updated_at": "2026-04-29T09:46:57.232Z",
+    "updated_at": "2026-06-11T12:28:29.227Z",
     "custom_price": "7,50 €",
     "custom_time_text": "11:00 bis 11:45 Uhr"
   },
@@ -171,7 +138,7 @@
     "start": "2026-08-09T11:00",
     "locked": true,
     "custom_title": "Öffentliche Führungen durch die Sonderausstellung »Die Toten von Wolfenbüttel«",
-    "updated_at": "2026-04-29T09:46:57.232Z",
+    "updated_at": "2026-06-11T12:28:29.227Z",
     "custom_price": "7,50 €",
     "custom_time_text": "11:00 bis 11:45 Uhr"
   },
@@ -182,7 +149,7 @@
     "start": "2026-08-23T11:00",
     "locked": true,
     "custom_title": "Öffentliche Führungen durch die Sonderausstellung »Die Toten von Wolfenbüttel«",
-    "updated_at": "2026-04-29T09:46:57.232Z",
+    "updated_at": "2026-06-11T12:28:29.227Z",
     "custom_price": "7,50 €",
     "custom_time_text": "11:00 bis 11:45 Uhr"
   },
@@ -193,7 +160,7 @@
     "start": "2026-09-13T11:00",
     "locked": true,
     "custom_title": "Öffentliche Führungen durch die Sonderausstellung »Die Toten von Wolfenbüttel«",
-    "updated_at": "2026-04-29T09:46:57.232Z",
+    "updated_at": "2026-06-11T12:28:29.227Z",
     "custom_price": "7,50 €",
     "custom_time_text": "11:00 bis 11:45 Uhr"
   },
@@ -204,7 +171,7 @@
     "start": "2026-09-27T11:00",
     "locked": true,
     "custom_title": "Öffentliche Führungen durch die Sonderausstellung »Die Toten von Wolfenbüttel«",
-    "updated_at": "2026-04-29T09:46:57.232Z",
+    "updated_at": "2026-06-11T12:28:29.227Z",
     "custom_price": "7,50 €",
     "custom_time_text": "11:00 bis 11:45 Uhr"
   },
@@ -215,7 +182,7 @@
     "start": "2026-10-04T11:00",
     "locked": true,
     "custom_title": "Öffentliche Führungen durch die Sonderausstellung »Die Toten von Wolfenbüttel«",
-    "updated_at": "2026-04-29T09:46:57.232Z",
+    "updated_at": "2026-06-11T12:28:29.227Z",
     "custom_price": "7,50 €",
     "custom_time_text": "11:00 bis 11:45 Uhr"
   },
@@ -226,7 +193,7 @@
     "start": "2026-10-25T11:00",
     "locked": true,
     "custom_title": "Öffentliche Führungen durch die Sonderausstellung »Die Toten von Wolfenbüttel«",
-    "updated_at": "2026-04-29T09:46:57.232Z",
+    "updated_at": "2026-06-11T12:28:29.228Z",
     "custom_price": "7,50 €",
     "custom_time_text": "11:00 bis 11:45 Uhr"
   },
@@ -237,7 +204,7 @@
     "start": "2026-11-15T11:00",
     "locked": true,
     "custom_title": "Öffentliche Führungen durch die Sonderausstellung »Die Toten von Wolfenbüttel«",
-    "updated_at": "2026-04-29T09:46:57.232Z",
+    "updated_at": "2026-06-11T12:28:29.228Z",
     "custom_price": "7,50 €",
     "custom_time_text": "11:00 bis 11:45 Uhr"
   },
@@ -248,7 +215,7 @@
     "start": "2026-11-22T11:00",
     "locked": true,
     "custom_title": "Öffentliche Führungen durch die Sonderausstellung »Die Toten von Wolfenbüttel«",
-    "updated_at": "2026-04-29T09:46:57.232Z",
+    "updated_at": "2026-06-11T12:28:29.228Z",
     "custom_price": "7,50 €",
     "custom_time_text": "11:00 bis 11:45 Uhr"
   },
@@ -259,7 +226,7 @@
     "start": "2026-11-29T11:00",
     "locked": true,
     "custom_title": "Öffentliche Führungen durch die Sonderausstellung »Die Toten von Wolfenbüttel«",
-    "updated_at": "2026-04-29T09:46:57.232Z",
+    "updated_at": "2026-06-11T12:28:29.228Z",
     "custom_price": "7,50 €",
     "custom_time_text": "11:00 bis 11:45 Uhr"
   },
@@ -273,5 +240,247 @@
     "updated_at": "2026-04-29T09:46:57.232Z",
     "custom_price": "",
     "custom_time_text": "17:00 bis 18:00 Uhr"
+  },
+  {
+    "event_id": "schloss-museum_2026-06-14_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_d4d3ab20",
+    "original_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "start": "2026-06-14T15:00",
+    "locked": true,
+    "custom_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "updated_at": "2026-06-11T12:28:29.227Z",
+    "custom_price": "7,50 €",
+    "custom_time_text": "15:00 bis 15:45 Uhr"
+  },
+  {
+    "event_id": "buerger-museum_2026-06-20_11-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_b0ab3fd2",
+    "original_title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "museum": "Bürger Museum",
+    "start": "2026-06-20T11:00",
+    "locked": true,
+    "custom_title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "updated_at": "2026-06-11T12:28:29.227Z",
+    "custom_price": "7,50 €",
+    "custom_time_text": "11:00 bis 11:45 Uhr"
+  },
+  {
+    "event_id": "schloss-museum_2026-06-21_15-00_fuehrung-zu-frauen-am-wolfenbuetteler-hof_91ec2ea1",
+    "original_title": "Führung zu \"Frauen am Wolfenbütteler Hof\"",
+    "museum": "Schloss Museum",
+    "start": "2026-06-21T15:00",
+    "locked": true,
+    "custom_title": "Führung zu \"Frauen am Wolfenbütteler Hof\"",
+    "updated_at": "2026-06-11T12:28:29.227Z",
+    "custom_price": "7,50 €",
+    "custom_time_text": "15:00 bis 15:45 Uhr"
+  },
+  {
+    "event_id": "schloss-museum_2026-06-28_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_c669bb82",
+    "original_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "start": "2026-06-28T15:00",
+    "locked": true,
+    "custom_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "updated_at": "2026-06-11T12:28:29.227Z",
+    "custom_price": "7,50 €",
+    "custom_time_text": "15:00 bis 15:45 Uhr"
+  },
+  {
+    "event_id": "schloss-museum_2026-07-05_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_9326c41c",
+    "original_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "start": "2026-07-05T15:00",
+    "locked": true,
+    "custom_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "updated_at": "2026-06-11T12:28:29.227Z",
+    "custom_price": "7,50 €",
+    "custom_time_text": "15:00 bis 15:45 Uhr"
+  },
+  {
+    "event_id": "schloss-museum_2026-07-12_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_835418a9",
+    "original_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "start": "2026-07-12T15:00",
+    "locked": true,
+    "custom_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "updated_at": "2026-06-11T12:28:29.227Z",
+    "custom_price": "7,50 €",
+    "custom_time_text": "15:00 bis 15:45 Uhr"
+  },
+  {
+    "event_id": "buerger-museum_2026-07-18_11-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_973652c3",
+    "original_title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "museum": "Bürger Museum",
+    "start": "2026-07-18T11:00",
+    "locked": true,
+    "custom_title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "updated_at": "2026-06-11T12:28:29.227Z",
+    "custom_price": "7,50 €",
+    "custom_time_text": "11:00 bis 11:45 Uhr"
+  },
+  {
+    "event_id": "schloss-museum_2026-07-19_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_36c8cffd",
+    "original_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "start": "2026-07-19T15:00",
+    "locked": true,
+    "custom_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "updated_at": "2026-06-11T12:28:29.227Z",
+    "custom_price": "7,50 €",
+    "custom_time_text": "15:00 bis 15:45 Uhr"
+  },
+  {
+    "event_id": "schloss-museum_2026-07-26_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_3cae8dc9",
+    "original_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "start": "2026-07-26T15:00",
+    "locked": true,
+    "custom_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "updated_at": "2026-06-11T12:28:29.227Z",
+    "custom_price": "7,50 €",
+    "custom_time_text": "15:00 bis 15:45 Uhr"
+  },
+  {
+    "event_id": "schloss-museum_2026-08-02_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_9e8244c2",
+    "original_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "start": "2026-08-02T15:00",
+    "locked": true,
+    "custom_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "updated_at": "2026-06-11T12:28:29.227Z",
+    "custom_price": "7,50 €",
+    "custom_time_text": "15:00 bis 15:45 Uhr"
+  },
+  {
+    "event_id": "schloss-museum_2026-08-09_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_fab8bcfb",
+    "original_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "start": "2026-08-09T15:00",
+    "locked": true,
+    "custom_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "updated_at": "2026-06-11T12:28:29.227Z",
+    "custom_price": "7,50 €",
+    "custom_time_text": "15:00 bis 15:45 Uhr"
+  },
+  {
+    "event_id": "buerger-museum_2026-08-15_11-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_a1e0efe2",
+    "original_title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "museum": "Bürger Museum",
+    "start": "2026-08-15T11:00",
+    "locked": true,
+    "custom_title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "updated_at": "2026-06-11T12:28:29.227Z",
+    "custom_price": "7,50 €",
+    "custom_time_text": "11:00 bis 11:45 Uhr"
+  },
+  {
+    "event_id": "schloss-museum_2026-08-16_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_dc357b6b",
+    "original_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "start": "2026-08-16T15:00",
+    "locked": true,
+    "custom_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "updated_at": "2026-06-11T12:28:29.227Z",
+    "custom_price": "7,50 €",
+    "custom_time_text": "15:00 bis 15:45 Uhr"
+  },
+  {
+    "event_id": "schloss-museum_2026-08-23_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_9a11a868",
+    "original_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "start": "2026-08-23T15:00",
+    "locked": true,
+    "custom_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "updated_at": "2026-06-11T12:28:29.227Z",
+    "custom_price": "7,50 €",
+    "custom_time_text": "15:00 bis 15:45 Uhr"
+  },
+  {
+    "event_id": "schloss-museum_2026-08-30_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_42806141",
+    "original_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "start": "2026-08-30T15:00",
+    "locked": true,
+    "custom_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "updated_at": "2026-06-11T12:28:29.227Z",
+    "custom_price": "7,50 €",
+    "custom_time_text": "15:00 bis 15:45 Uhr"
+  },
+  {
+    "event_id": "buerger-museum_2026-09-05_11-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_ae200779",
+    "original_title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "museum": "Bürger Museum",
+    "start": "2026-09-05T11:00",
+    "locked": true,
+    "custom_title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "updated_at": "2026-06-11T12:28:29.227Z",
+    "custom_price": "7,50 €",
+    "custom_time_text": "11:00 bis 11:45 Uhr"
+  },
+  {
+    "event_id": "buerger-museum_2026-10-17_11-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_035e6b14",
+    "original_title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "museum": "Bürger Museum",
+    "start": "2026-10-17T11:00",
+    "locked": true,
+    "custom_title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "updated_at": "2026-06-11T12:28:29.227Z",
+    "custom_price": "7,50 €",
+    "custom_time_text": "11:00 bis 11:45 Uhr"
+  },
+  {
+    "event_id": "buerger-museum_2026-11-07_11-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_de612e47",
+    "original_title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "museum": "Bürger Museum",
+    "start": "2026-11-07T11:00",
+    "locked": true,
+    "custom_title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "updated_at": "2026-06-11T12:28:29.228Z",
+    "custom_price": "7,50 €",
+    "custom_time_text": "11:00 bis 11:45 Uhr"
+  },
+  {
+    "event_id": "buerger-museum_2026-12-05_11-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_90d43f62",
+    "original_title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "museum": "Bürger Museum",
+    "start": "2026-12-05T11:00",
+    "locked": true,
+    "custom_title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "updated_at": "2026-06-11T12:28:29.228Z",
+    "custom_price": "7,50 €",
+    "custom_time_text": "11:00 bis 11:45 Uhr"
+  },
+  {
+    "event_id": "buerger-museum_2027-01-16_11-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_5b831474",
+    "original_title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "museum": "Bürger Museum",
+    "start": "2027-01-16T11:00",
+    "locked": true,
+    "custom_title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "updated_at": "2026-06-11T12:28:29.228Z",
+    "custom_price": "7,50 €",
+    "custom_time_text": "11:00 bis 11:45 Uhr"
+  },
+  {
+    "event_id": "buerger-museum_2027-02-20_11-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_670d4b9c",
+    "original_title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "museum": "Bürger Museum",
+    "start": "2027-02-20T11:00",
+    "locked": true,
+    "custom_title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "updated_at": "2026-06-11T12:28:29.228Z",
+    "custom_price": "7,50 €",
+    "custom_time_text": "11:00 bis 11:45 Uhr"
+  },
+  {
+    "event_id": "buerger-museum_2027-03-13_11-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_c9e2737e",
+    "original_title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "museum": "Bürger Museum",
+    "start": "2027-03-13T11:00",
+    "locked": true,
+    "custom_title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "updated_at": "2026-06-11T12:28:29.228Z",
+    "custom_price": "7,50 €",
+    "custom_time_text": "11:00 bis 11:45 Uhr"
   }
 ]
