@@ -10,16 +10,6 @@
     "source_url": "https://www.museumwolfenbuettel.de/B%C3%BCrger-Museum/Veranstaltungen/"
   },
   {
-    "event_id": "schloss-museum_2026-06-21_11-00_der-tanzmeister-fuehrt_6229c8f1",
-    "title": "Der Tanzmeister führt",
-    "museum": "Schloss Museum",
-    "kind": "Öffentliche Führung",
-    "start": "2026-06-21T11:00",
-    "time_text": "11:00 bis 11:50 Uhr",
-    "price": "9,50 €",
-    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
-  },
-  {
     "event_id": "schloss-museum_2026-06-21_15-00_fuehrung-zu-frauen-am-wolfenbuetteler-hof_91ec2ea1",
     "title": "Führung zu \"Frauen am Wolfenbütteler Hof\"",
     "museum": "Schloss Museum",
@@ -218,6 +208,16 @@
     "time_text": "11:00 bis 11:45 Uhr",
     "price": "7,50 €",
     "source_url": "https://www.museumwolfenbuettel.de/B%C3%BCrger-Museum/Veranstaltungen/"
+  },
+  {
+    "event_id": "schloss-museum_2026-09-06_11-00_der-tanzmeister-fuehrt_b6e54c49",
+    "title": "Der Tanzmeister führt",
+    "museum": "Schloss Museum",
+    "kind": "Öffentliche Führung",
+    "start": "2026-09-06T11:00",
+    "time_text": "11:00 bis 11:50 Uhr",
+    "price": "9,50 €",
+    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
   },
   {
     "event_id": "schloss-museum_2026-09-13_11-00_oeffentliche-fuehrungen-durch-die-sonderausstellung-die-toten-von-wolfenbuettel_29fccb0c",
