@@ -1,15 +1,5 @@
 [
   {
-    "event_id": "schloss-museum_2026-06-21_15-00_fuehrung-zu-frauen-am-wolfenbuetteler-hof_91ec2ea1",
-    "title": "Führung zu \"Frauen am Wolfenbütteler Hof\"",
-    "museum": "Schloss Museum",
-    "kind": "Öffentliche Führung",
-    "start": "2026-06-21T15:00",
-    "time_text": "15:00 bis 15:45 Uhr",
-    "price": "7,50 €",
-    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
-  },
-  {
     "event_id": "schloss-museum_2026-06-28_11-00_oeffentliche-fuehrungen-durch-die-sonderausstellung-die-toten-von-wolfenbuettel_ece44c23",
     "title": "Öffentliche Führungen durch die Sonderausstellung »Die Toten von Wolfenbüttel«",
     "museum": "Schloss Museum",
