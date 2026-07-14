@@ -117,5 +117,23 @@
     "locked": true,
     "custom_title": "Buchvorstellung, Vortrag und Führung: Die Toten erzählen (IN DER HAUPTKIRCHE BEATAE MARIAE VIRGINIS !)",
     "updated_at": "2026-06-16T14:38:49.174Z"
+  },
+  {
+    "event_id": "buerger-museum_2026-07-18_11-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_973652c3",
+    "original_title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
+    "museum": "Bürger Museum",
+    "start": "2026-07-18T11:00",
+    "locked": true,
+    "updated_at": "2026-07-14T09:08:54.353Z",
+    "custom_price": ""
+  },
+  {
+    "event_id": "schloss-museum_2026-07-19_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_36c8cffd",
+    "original_title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "start": "2026-07-19T15:00",
+    "locked": true,
+    "updated_at": "2026-07-14T09:08:54.353Z",
+    "custom_price": "jeweils 7,50 €"
   }
 ]
