@@ -40,16 +40,6 @@
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/Veranstaltungen/"
   },
   {
-    "event_id": "schloss-museum_2026-09-05_11-00_themenfuehrung-juedisches-leben-in-wolfenbuettel-virtuelle-rekonstruktion-der-synagoge-les_d8e3ebbf",
-    "title": "Themenführung: »Jüdisches Leben in Wolfenbüttel - Virtuelle Rekonstruktion der Synagoge Lessingstraße«",
-    "museum": "Schloss Museum",
-    "kind": "Öffentliche Führung",
-    "start": "2026-09-05T11:00",
-    "time_text": "11:00 bis 11:45 Uhr",
-    "price": "7,50 €",
-    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
-  },
-  {
     "event_id": "schloss-museum_2026-09-06_11-00_der-tanzmeister-fuehrt_b6e54c49",
     "title": "Der Tanzmeister führt",
     "museum": "Schloss Museum",
@@ -108,6 +98,26 @@
     "time_text": "18:00 bis 19:30 Uhr",
     "price": "7,50 €",
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
+  },
+  {
+    "event_id": "buerger-museum_2026-09-19_18-00_die-kulturnacht-im-museum-wolfenbuettel_c79d567f",
+    "title": "Die Kulturnacht im Museum Wolfenbüttel",
+    "museum": "Bürger Museum",
+    "kind": "Veranstaltung",
+    "start": "2026-09-19T18:00",
+    "time_text": "18:00 bis 20:00 Uhr",
+    "price": "",
+    "source_url": "https://www.museumwolfenbuettel.de/B%C3%BCrger-Museum/Veranstaltungen/"
+  },
+  {
+    "event_id": "schloss-museum_2026-09-19_18-00_die-kulturnacht-im-museum-wolfenbuettel_fdb4a8f9",
+    "title": "Die Kulturnacht im Museum Wolfenbüttel",
+    "museum": "Schloss Museum",
+    "kind": "Veranstaltung",
+    "start": "2026-09-19T18:00",
+    "time_text": "18:00 bis 22:00 Uhr",
+    "price": "",
+    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/Veranstaltungen/"
   },
   {
     "event_id": "schloss-museum_2026-09-20_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_240f4b63",
