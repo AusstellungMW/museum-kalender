@@ -80,6 +80,16 @@
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
   },
   {
+    "event_id": "buerger-museum_2026-09-30_13-00_singen-im-museum_488f9003",
+    "title": "Singen im Museum",
+    "museum": "Bürger Museum",
+    "kind": "Veranstaltung",
+    "start": "2026-09-30T13:00",
+    "time_text": "13:00 bis 14:00 Uhr",
+    "price": "",
+    "source_url": "https://www.museumwolfenbuettel.de/B%C3%BCrger-Museum/Veranstaltungen/"
+  },
+  {
     "event_id": "schloss-museum_2026-10-04_11-00_oeffentliche-fuehrungen-durch-die-sonderausstellung-die-toten-von-wolfenbuettel_e99545e6",
     "title": "Öffentliche Führungen durch die Sonderausstellung „Die Toten von Wolfenbüttel“",
     "museum": "Schloss Museum",
