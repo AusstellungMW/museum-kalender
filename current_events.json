@@ -1,15 +1,5 @@
 [
   {
-    "event_id": "schloss-museum_2026-09-16_18-00_stadtrundgang-zur-ausstellung-die-toten-von-wolfenbuettel_8b1d45c0",
-    "title": "Stadtrundgang zur Ausstellung »Die Toten von Wolfenbüttel«",
-    "museum": "Schloss Museum",
-    "kind": "Öffentliche Führung",
-    "start": "2026-09-16T18:00",
-    "time_text": "18:00 bis 19:30 Uhr",
-    "price": "7,50 €",
-    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
-  },
-  {
     "event_id": "buerger-museum_2026-09-19_18-00_die-kulturnacht-im-museum-wolfenbuettel_c79d567f",
     "title": "Die Kulturnacht im Museum Wolfenbüttel",
     "museum": "Bürger Museum",
