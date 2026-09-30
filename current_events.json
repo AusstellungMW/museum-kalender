@@ -1,15 +1,5 @@
 [
   {
-    "event_id": "buerger-museum_2026-09-30_13-00_singen-im-museum_488f9003",
-    "title": "Singen im Museum",
-    "museum": "Bürger Museum",
-    "kind": "Veranstaltung",
-    "start": "2026-09-30T13:00",
-    "time_text": "13:00 bis 14:00 Uhr",
-    "price": "",
-    "source_url": "https://www.museumwolfenbuettel.de/B%C3%BCrger-Museum/Veranstaltungen/"
-  },
-  {
     "event_id": "schloss-museum_2026-10-04_11-00_oeffentliche-fuehrungen-durch-die-sonderausstellung-die-toten-von-wolfenbuettel_e99545e6",
     "title": "Öffentliche Führungen durch die Sonderausstellung „Die Toten von Wolfenbüttel“",
     "museum": "Schloss Museum",
@@ -38,6 +28,16 @@
     "time_text": "15:00 bis 15:45 Uhr",
     "price": "7,50 €",
     "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
+  },
+  {
+    "event_id": "schloss-museum_2026-10-13_11-00_ein-familienworkshop-zu-die-toten-von-wolfenbuettel_17c4931a",
+    "title": "Ein Familienworkshop zu »Die Toten von Wolfenbüttel«",
+    "museum": "Schloss Museum",
+    "kind": "Veranstaltung",
+    "start": "2026-10-13T11:00",
+    "time_text": "11:00 bis 13:00 Uhr",
+    "price": "",
+    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/Veranstaltungen/"
   },
   {
     "event_id": "schloss-museum_2026-10-13_18-00_vortrag-die-toten-von-wolfenbuettel-anthropologische-rekonstruktion-einer-staedtischen-obe_24f2394d",
