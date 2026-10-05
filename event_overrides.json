@@ -117,5 +117,14 @@
     "locked": true,
     "custom_title": "Buchvorstellung, Vortrag und Führung: Die Toten erzählen (IN DER HAUPTKIRCHE BEATAE MARIAE VIRGINIS !)",
     "updated_at": "2026-06-16T14:38:49.174Z"
+  },
+  {
+    "event_id": "schloss-museum_2026-10-13_11-00_ein-familienworkshop-zu-die-toten-von-wolfenbuettel_17c4931a",
+    "original_title": "Ein Familienworkshop zu »Die Toten von Wolfenbüttel«",
+    "museum": "Schloss Museum",
+    "start": "2026-10-13T11:00",
+    "locked": true,
+    "updated_at": "2026-10-05T09:58:49.372Z",
+    "custom_price": "10 € pro Person"
   }
 ]
