@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "event_id": "schloss-museum_2026-11-15_11-00_oeffentliche-fuehrungen-durch-die-sonderausstellung-die-toten-von-wolfenbuettel_52983c44",
+    "title": "Öffentliche Führungen durch die Sonderausstellung „Die Toten von Wolfenbüttel“",
+    "museum": "Schloss Museum",
+    "kind": "Öffentliche Führung",
+    "start": "2026-11-15T11:00",
+    "time_text": "11:00 bis 11:45 Uhr",
+    "price": "7,50 €",
+    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
+  },
+  {
+    "event_id": "schloss-museum_2026-11-15_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_4b323dd4",
+    "title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "kind": "Öffentliche Führung",
+    "start": "2026-11-15T15:00",
+    "time_text": "15:00 bis 15:45 Uhr",
+    "price": "7,50 €",
+    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
+  },
+  {
+    "event_id": "schloss-museum_2026-11-22_11-00_oeffentliche-fuehrungen-durch-die-sonderausstellung-die-toten-von-wolfenbuettel_7c4ec784",
+    "title": "Öffentliche Führungen durch die Sonderausstellung „Die Toten von Wolfenbüttel“",
+    "museum": "Schloss Museum",
+    "kind": "Öffentliche Führung",
+    "start": "2026-11-22T11:00",
+    "time_text": "11:00 bis 11:45 Uhr",
+    "price": "7,50 €",
+    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
+  },
+  {
+    "event_id": "schloss-museum_2026-11-22_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_8486a700",
+    "title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "kind": "Öffentliche Führung",
+    "start": "2026-11-22T15:00",
+    "time_text": "15:00 bis 15:45 Uhr",
+    "price": "7,50 €",
+    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
+  },
+  {
+    "event_id": "schloss-museum_2026-11-26_17-00_zum-letzten-mal-kuratorin-fuehrt-durch-die-sonderausstellung_cde4428a",
+    "title": "Zum letzten Mal: Kuratorin führt durch die Sonderausstellung",
+    "museum": "Schloss Museum",
+    "kind": "Öffentliche Führung",
+    "start": "2026-11-26T17:00",
+    "time_text": "17:00 bis 17:45 Uhr",
+    "price": "7,50 €",
+    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
+  },
+  {
+    "event_id": "schloss-museum_2026-11-29_11-00_oeffentliche-fuehrungen-durch-die-sonderausstellung-die-toten-von-wolfenbuettel_7844fb62",
+    "title": "Öffentliche Führungen durch die Sonderausstellung „Die Toten von Wolfenbüttel“",
+    "museum": "Schloss Museum",
+    "kind": "Öffentliche Führung",
+    "start": "2026-11-29T11:00",
+    "time_text": "11:00 bis 11:45 Uhr",
+    "price": "7,50 €",
+    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
+  },
+  {
+    "event_id": "schloss-museum_2026-11-29_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_6a346bb1",
+    "title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "kind": "Öffentliche Führung",
+    "start": "2026-11-29T15:00",
+    "time_text": "15:00 bis 15:45 Uhr",
+    "price": "7,50 €",
+    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
+  },
+  {
+    "event_id": "schloss-museum_2026-12-06_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_ce78a2b3",
+    "title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "kind": "Öffentliche Führung",
+    "start": "2026-12-06T15:00",
+    "time_text": "15:00 bis 15:45 Uhr",
+    "price": "7,50 €",
+    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
+  },
+  {
+    "event_id": "schloss-museum_2026-12-13_11-00_der-tanzmeister-fuehrt_4eca5007",
+    "title": "Der Tanzmeister führt",
+    "museum": "Schloss Museum",
+    "kind": "Öffentliche Führung",
+    "start": "2026-12-13T11:00",
+    "time_text": "11:00 bis 11:50 Uhr",
+    "price": "9,50 €",
+    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
+  },
+  {
+    "event_id": "schloss-museum_2026-12-13_15-00_fuehrung-zu-frauen-am-wolfenbuetteler-hof_37741099",
+    "title": "Führung zu \"Frauen am Wolfenbütteler Hof\"",
+    "museum": "Schloss Museum",
+    "kind": "Öffentliche Führung",
+    "start": "2026-12-13T15:00",
+    "time_text": "15:00 bis 15:45 Uhr",
+    "price": "7,50 €",
+    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
+  },
+  {
+    "event_id": "schloss-museum_2026-12-20_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_51e5810e",
+    "title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "kind": "Öffentliche Führung",
+    "start": "2026-12-20T15:00",
+    "time_text": "15:00 bis 15:45 Uhr",
+    "price": "7,50 €",
+    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
+  },
+  {
+    "event_id": "schloss-museum_2026-12-27_15-00_immer-wieder-sonntags-fuehrungen-durch-die-herzoglichen-raeume_ce4f6025",
+    "title": "Immer wieder sonntags: Führungen durch die herzoglichen Räume",
+    "museum": "Schloss Museum",
+    "kind": "Öffentliche Führung",
+    "start": "2026-12-27T15:00",
+    "time_text": "15:00 bis 15:45 Uhr",
+    "price": "7,50 €",
+    "source_url": "https://www.museumwolfenbuettel.de/Schloss-Museum/%C3%96ffentliche-F%C3%BChrungen/"
+  }
+]
